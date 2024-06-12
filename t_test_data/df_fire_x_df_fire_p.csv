@@ -1,0 +1,8 @@
+,mean_esi_post,mean_et_post,mean_wue_post,percent_non-fire_post,percent_fire_low_post,percent_fire_nominal_post,percent_fire_high_post
+mean_esi_pre,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mean_et_pre,0.0,0.808,0.0,0.0,0.0,0.0,0.0
+mean_wue_pre,0.0,0.0,0.001,0.0,0.0,0.0,0.0
+percent_non-fire_pre,0.0,0.0,0.434,0.0,0.0,0.0,0.0
+percent_fire_low_pre,0.0,0.0,0.0,0.0,0.082,0.0,0.474
+percent_fire_nominal_pre,0.0,0.0,0.0,0.0,0.001,0.828,0.011
+percent_fire_high_pre,0.0,0.0,0.0,0.0,0.0,0.26,0.001

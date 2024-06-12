@@ -1,0 +1,8 @@
+,mean_esi_post,mean_et_post,mean_wue_post,percent_non-fire_post,percent_fire_low_post,percent_fire_nominal_post,percent_fire_high_post
+mean_esi_pre,-31.161,-78.491,-42.88,-233.291,169.189,168.8,169.066
+mean_et_pre,59.281,-1.364,59.14,59.113,59.483,59.483,59.483
+mean_wue_pre,17.007,-78.322,-9.407,-19.008,61.923,61.874,61.909
+percent_non-fire_pre,120.89,-78.215,5.817,-5.333,854.016,850.072,852.661
+percent_fire_low_pre,-155.894,-78.687,-79.22,-1682.876,1.734,-4.916,-1.884
+percent_fire_nominal_pre,-155.733,-78.687,-79.188,-1658.312,3.606,-1.318,1.722
+percent_fire_high_pre,-155.392,-78.687,-79.129,-1598.895,5.007,1.826,3.953
