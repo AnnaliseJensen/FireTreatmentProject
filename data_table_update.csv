@@ -1,0 +1,1085 @@
+year,oid,is_buffer,treatment_type,project_type,area,mean_esi_pre,mean_esi_post,mean_et_pre,mean_et_post,mean_wue_pre,mean_wue_post,mean_lst_eco_pre,mean_lst_eco_post,mean_lst_modis_pre,mean_lst_modis_post,total_pixels_modis,non-fire_pre,non-fire_post,fire_low_pre,fire_low_post,fire_nominal_pre,fire_nominal_post,fire_high_pre,fire_high_post,total_days_modis_pre,total_days_modis_post
+2015,0004,0,Physical,"Removal, Mastication",51382.557217058486,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,0044,1,Physical,"Removal, Mastication",11430.709549091638,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2015,0045,0,Physical,"Removal, Mastication",31732.879396924745,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,0065,0,needs input,needs input,987364.916595448,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0069,0,Physical,Thinning,9156.57490995629,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0083,0,Physical,"Heavy Thin, Haul Slash",879.6459706939374,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0085,0,Physical,Defensible Space,8693.968345833138,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0089,0,Physical,"Medium Thin, Pile Slash",6101.261125900472,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,0097,0,Physical,"Thin, Chip",33582.8960249262,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,0098,0,Physical,"Thin, Haul/Pile Slash",38490.70051297465,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,0105,0,Physical,"Medium Thin, Pile",8661.428245054165,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0121,0,Physical,"Thin, Lop And Scatter",42000.61820803791,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2015,0136,0,Physical,Thinning Thru Mastication,50822.86218223233,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0161,0,Physical,Thinning,35982.32276126131,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0167,1,Physical,"Medium Thin, Pile",20145.71596877716,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2015,0168,0,Physical,"Heavy Thin, Pile Slash",14212.083430438526,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0171,0,Physical,"Thin, Pile Slash",6987.191155585067,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0173,0,Physical,"Medium Thin, Chip",9406.353825530006,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0174,1,Physical,"Medium Thin, Chip",20853.98568850336,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,0175,0,Physical,"Thin, Pile Slash",27752.7260930488,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0187,0,Physical,"Selective Thinning, Lop And Scatter Slash",187942.51037287223,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0202,0,Physical,Mastication Meadow Restoration,106587.8538160115,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0205,0,Physical,Mastication Meadow Restoration,15756.36042978322,,,,,,,,,,,2,40,31,0,0,0,0,0,0,20,16
+2015,0211,0,Physical,Mastication Meadow Restoration,149284.81295251846,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0213,0,Physical,Mastication Meadow Restoration,15933.65803592986,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2015,0220,0,Physical,Mastication Thinning Clumping,133127.9914475796,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0221,0,Physical,Mastication Meadow Restoration,92637.7380251762,,,,,,,,,,,2,40,31,0,0,0,0,0,0,20,16
+2015,0222,0,Physical,Mastication Thinning Clumping,191840.10628629223,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0252,0,Physical,Heavy Thinning With Mastication,47664.76524868893,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0283,0,Physical,Thinning,1248.3274184028107,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0286,0,Physical,Thinning,73781.52828389462,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0295,0,Physical,Thinning,392.23619594237886,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0329,0,Physical,"Removal, Mastication",34361.91590916981,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0334,0,Fire,"Extraction, Burning",17308.470918578794,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,0335,0,Fire,"Extraction, Burning",459.77971557968493,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,0340,0,Fire,Fire For Multiple Benefits,213263.51447145548,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0363,0,Physical,Pre-Commercial And Commercial Thinning,868799.3273724247,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,0372,0,Physical,Lop And Scatter With Some Piling,398705.01876481296,,,,,,,,,,,16,320,256,0,0,0,0,0,0,20,16
+2016,0399,0,Physical,"Hand Thin, Mastication",5341.124536916817,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2016,0400,0,Physical,Thin Lop And Scatter,40780.950566352985,,,,,,,,,,,7,137,112,0,0,0,0,0,0,20,16
+2016,0407,0,Physical,Thin Skid Deck,55317.12597317444,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,0409,0,Physical,Thin And Pile,61331.437077672505,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0420,0,Physical,Mastication Thinning Clumping,34744.052284503654,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,0421,0,Physical,Mastication Meadow Restoration,94353.2673128624,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0427,0,needs input,"Planned Fuel Break, Lop And Scatter",16812.79243756414,,,,,,,,,,,4,80,128,0,0,0,0,0,0,20,16
+2015,0443,0,Physical,Timber Sale,120987.32289687917,,,,,,,,,,,2,32,32,0,0,0,0,0,0,16,16
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2015,0466,0,Physical,Thinning,4080.0782049402483,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,0469,0,Physical,Thinning,2836.775078373679,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0471,0,Physical,Thinning,7681.702622004109,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,0476,0,Physical,Thinning,66494.96169705666,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0499,0,Physical,Removal And Mastication,14778.030211106396,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,0500,0,Physical,Removal Mastication,30895.68236086399,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0514,0,Physical,"Hand Thin, Chip",40785.33472548561,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0525,0,Physical,"Thinnig, Lop And Scatter, Piling",40792.59133559464,,,,,,,,,,,8,154,128,0,0,0,0,0,0,20,16
+2016,0534,0,Physical,"Thinnig, Lop And Scatter, Piling",184640.8447974801,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0535,0,Physical,"Thinnig, Lop And Scatter, Piling",74329.88113879906,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0541,0,Physical,"Thinnig, Lop And Scatter, Piling",169.74194360311097,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,0550,0,Physical,"Hand Thin, Mastication",6405.143657248959,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,0554,0,Physical,"Hand Thin, Masticate",3057.87480721409,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0555,0,Physical,"Hand Thin, Mastication",6150.888083194385,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0558,0,Physical,"Cut And Chip, Haz Fuels",12497.227347942648,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0564,0,Physical,"Fuelbreak, Chip Slash",3654.7048177904144,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0566,0,Physical,"Thin, Chip Slash",1591.4435241446613,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2016,0573,0,Physical,Thin And Chip Slash,7982.301854637418,,,,,,,,,,,2,58,48,0,0,0,0,0,0,20,16
+2016,0576,0,Physical,Thin And Chip Slash,2888.5317499283883,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2016,0580,0,Physical,Thin Chip Slash,3202.6253484152103,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2016,0591,0,Physical,"Thin To 60 Or Less, Lop And Scatter",11370.349359883656,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2016,0611,0,Physical,Mastication To A Diameter Limit,45369.14901009968,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0613,0,Physical,Thin Lop And Scatter Remove Firewood To Road,95054.15620178882,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0660,0,Physical,"Heavy Thin, Pile Slash",14212.083430438526,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0671,0,Physical,"Thin, Chip",33582.8960249262,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0675,0,Physical,"Medium Thin, Pile Slash",9822.364400714465,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0693,0,Physical,"Thin, Haul Slash",38431.09489947563,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,0701,0,Physical,"Thin, Haul Slash",21185.29561033909,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2016,0705,0,Physical,"Thin, Pile",32634.42543457684,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2016,0706,0,Physical,"Thin, Pile",53443.02229321256,,,,,,,,,,,0,0,31,0,0,0,0,0,0,20,16
+2016,0710,0,Physical,"Thin, Pile",4342.821182692467,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0713,0,Physical,"Thin, Pile",8413.760312486289,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,0762,0,Physical,"Medium Thin, Pile Slash",4254.876338106733,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,0765,0,Physical,"Thin, Pile",34006.729118446754,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2014,0830,0,Physical,"Heavy Thin, Chip Slash",14296.991840307748,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0839,0,Physical,"Heavy Thin, Pile Slash",24836.881019534572,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0846,1,Physical,"Medium Thin, Pile Slash",59423.58769471021,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,0866,0,Physical,"Medium Thin, Chip Slash",14178.104117802535,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0875,0,Physical,"Medium Thin, Lop And Scatter Slash",3534.8237333780457,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,0877,0,Physical,"Heavy Thin, Pile",10947.133165989522,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,0945,0,Physical,"Medium Thin, Pile Slash, +Slope",2883.5813080738853,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0948,0,Physical,"Medium Thin, Haul Slash",15244.34659111427,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,0953,1,Physical,"Heavy Thin, Lop And Scatter",62928.73307287836,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2014,0960,0,Physical,"Heavy Thin, Lop And Scatter Slash, Skid Out Logs",30418.7026290734,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0967,0,Physical,"Heavy Thin, Pile Slash",55254.983719616066,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,0969,0,Physical,"Heavy Thin, Pile Slash",23007.157829775177,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,0974,0,Physical,Chip Slash Only,4008.9729674897007,,,,,,,,,,,2,40,31,0,0,0,0,0,0,20,16
+2014,0976,0,Physical,Chip Slash Only,60163.700481768654,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,0980,0,Physical,Chip Slash Only,9753.884553175998,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0989,0,Physical,"Heavy Thin, Mastication, + Slope",9272.640666907,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,0993,0,Physical,"Heavy Thin, Pile Slash",4686.100885291775,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1008,0,Physical,"Heavy Thin, Chip Or Haul Slash",71318.9532652069,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1012,0,Physical,"Medium Thin, Chip Slash",1611.422924694819,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1013,0,Physical,"Heavy Thin, Pile Slash",32634.42543457684,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,1016,0,Physical,"Medium Thin, Pile",14311.51653035946,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1019,0,Physical,"Medium Thin, Haul Slash",58122.950552161325,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1020,0,Physical,"Heavy Thin, Pile Slash",23347.689000176248,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1022,0,Physical,Defensible Space,9262.539535180049,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1044,0,Physical,"Heavy Thin, Pile, Masticate, + Slope",11174.797722749978,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1055,0,Physical,"Heavy Thin, Pile",8373.027142916846,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1132,0,Physical,"Thin, Skid Logs, Haul Slash",9758.76393585035,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1140,0,Physical,"Medium Thin, Pile",27752.7260930488,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1150,0,Physical,"Heavy Thin, Haul/Chip Slash",3884.3283198427134,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1166,0,needs input,needs input,3869.73874780335,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1216,0,needs input,needs input,263335.51240495726,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2014,1224,0,Physical,Mastication Meadow Restoration,377449.9721160268,,,,,,,,,,,3,60,0,0,0,0,0,0,0,20,16
+2014,1231,0,Physical,Mastication Thinning Clumping,85543.98549280218,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1317,0,Physical,Heavy Thinning,5046.635537627832,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1319,0,Physical,Heavy Thinning +Slope/Difficult Access Mastication,7626.8352228003005,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,1321,0,Physical,Medium Thinning Chipping Slash,17760.859578422787,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1328,0,Physical,Chip/Haul Defensible Space,4361.271944705342,,,,,,,,,,,3,60,0,0,0,0,0,0,0,20,16
+2014,1333,0,Physical,Heavy Thin Haul Slash,15885.565236666256,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1334,1,Physical,Medium Thin Haul Slash,18917.362921251697,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,1442,0,Physical,"Medium Thin, Lop And Scatter",86484.54563031824,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1472,0,Physical,"Thinning, Lop/Scatter, Wldlfe Piles",5695.8718726378975,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1483,1,Physical,Mastication Thinning Clumping,368594.7451326912,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,1485,0,Physical,Mastication Thinning Clumping,34744.052284503654,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1510,0,Physical,"Pile Slash, Lop And Scatter On Slope Thinning",154935.81964914748,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1511,0,Physical,"Pile Slash, Lop And Scatter On Slope Thinning",14470.952140831942,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1519,0,Physical,Heavy Thin And Chip,12475.081478127164,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,1523,0,Physical,"Heavy Thin +15%, Pile",11143.2798349861,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1525,0,Physical,Medium Thinning +Slope Haul Slash,8355.923360286246,,,,,,,,,,,2,40,0,0,0,0,0,0,0,20,16
+2014,1653,0,Physical,Thinning,16911.283997586506,,,,,,,,,,,2,40,0,0,0,0,0,0,0,20,16
+2014,1671,0,Physical,Thinning,20862.77167478527,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1749,0,Fire,Prescribed Burn,1088673.177937075,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1750,0,Chemical,Pesticide,16170715.196000775,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1756,0,Physical,"thin, skid logs, haul slash",9493.37106910688,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1774,1,Physical,"Thin, full removal",197329.9184474356,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2014,1779,0,Physical,Thinning,18000.339782248964,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1782,0,Physical,Thinning,9149.497980561538,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,1783,0,Physical,Thinning,2328.0251681071345,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1786,0,Physical,Thinning,17680.254784207697,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1799,0,Physical,Thinning,6019.40502536181,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1802,0,Physical,Thinning,5016.763139216186,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1812,0,Physical,Thinning,4223.938015986819,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1813,0,Physical,Thinning,3826.203179522632,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1824,0,Physical,Thinning,14251.328028949065,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1826,0,Physical,Thinning,9034.107713214084,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1851,0,Physical,Thinning,12678.871290432377,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,1864,0,Physical,Thinning,15177.405709110164,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2015,1869,0,Physical,Thinning,283199.8050980856,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,1870,1,Physical,Thinning,227.10083597790012,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2015,1873,0,Physical,Thinning,11190.70846486848,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,1891,0,Physical,Thinning,231395.23636243213,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,1912,0,Physical,Thinning,8327.852364185404,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,1925,0,Physical,Thinning,63780.56572318052,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,1937,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",929.7143148343082,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,1942,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",61776.063928724776,,,,,,,,,,,2,40,31,0,0,0,0,0,0,20,16
+2015,1943,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",913.6322570512982,,,,,,,,,,,1,39,32,0,0,0,0,0,0,20,16
+2015,1944,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",9373.01168860604,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,1946,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",659.8335420987208,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,1953,1,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",12159.335076797935,,,,,,,,,,,5,100,76,0,0,0,0,0,0,20,16
+2015,1955,0,"Physical, Chemical","Thinning, grubbing, mulching/mastication, herbicide",705.6128873088022,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,1965,0,Physical,"Precommercial Thin, Rearrangement of Fuels, Yarding - Removal of Fuels by Carrying or Dragging, Range Cover Manipulation",14644.41765723734,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1966,0,Physical,Invasives - Mechanical /Physical,41619.52572190487,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,1972,0,Fire,Burning of Piled Material,793427.1457322851,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,1979,0,Physical,"Precommercial Thin, Rearrangement of Fuels, Range Cover Manipulation",490527.39261116873,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2013,0,Physical,"Thinning for Hazardous Fuels Reduction, Piling of Fuels, Hand or Machine, Range Cover Manipulation",226328.09616612783,,,,,,,,,,,2,40,31,0,0,0,0,0,0,20,16
+2016,2034,0,Physical,"Precommercial Thin, Rearrangement of Fuels, Yarding - Removal of Fuels by Carrying or Dragging, Range Cover Manipulation",352663.7488192687,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,2039,0,Physical,"Commercial Thin, Group Selection Cut (UA/RH/FH), Range Cover Manipulation",131220.20087966282,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2050,0,needs input,Range Cover Manipulation,750383.3666149083,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,2064,0,Physical,"Thinning for Hazardous Fuels Reduction, Rearrangement of Fuels, Range Cover Manipulation",449292.4024152201,,,,,,,,,,,2,40,0,0,0,0,0,0,0,20,16
+2014,2079,0,Physical,"Wildlife Habitat Precommercial thinning, Rearrangement of Fuels, Range Cover Manipulation",40265.9039117806,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2086,0,Physical,"Thinning for Hazardous Fuels Reduction, Rearrangement of Fuels, Range Cover Manipulation",729420.3974719696,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2016,2100,0,Physical,"Precommercial Thin, Rearrangement of Fuels, Range Cover Manipulation",729145.1342072928,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,2107,0,Chemical,Invasives - Pesticide Application,108359.31058503786,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2108,0,Physical,"Precommercial Thin, Thinning for Hazardous Fuels Reduction",762064.7623687577,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,2120,0,Physical,"Thinning for Hazardous Fuels Reduction, Rearrangement of Fuels, Commercial Thin, Range Cover Manipulation",641822.67059531,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2123,0,Chemical,Invasives - Pesticide Application,36852.35188740037,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,2128,1,Chemical,Invasives - Pesticide Application,954.2345294482659,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,2142,0,Chemical,Invasives - Pesticide Application,87380.28640237705,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,2146,0,Fire,"Broadcast Burning - Covers a majority of the unit, Range Cover Manipulation",628172.5931830204,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2158,0,Physical,Precommercial Thin,2768795.4950934118,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2160,0,Chemical,Invasives - Pesticide Application,30199.30592217587,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2161,0,Physical,"Precommercial Thin, Thinning for Hazardous Fuels Reduction",1672939.3608586255,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2167,0,Physical,Compacting/Crushing of Fuels,783132.6735120869,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2189,0,Physical,Wildlife Habitat Mechanical treatment,831118.0187509283,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2209,0,Physical,Permanent Land Clearing,429719.340273626,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2212,0,Physical,"Precommercial Thin, TSI Certification - Thinning",548000.5729250511,,,,,,,,,,,11,220,176,0,0,0,0,0,0,20,16
+2016,2220,0,Physical,Wildlife Habitat Precommercial thinning,3968254.8502415544,,,,,,,,,,,5,98,80,0,0,0,0,0,0,20,16
+2014,2226,0,Physical,Commercial Thin,318786.8089956196,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2235,1,Physical,Range Fences - Area,2113540.181546336,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2016,2246,0,needs input,Wildlife Habitat Improvement,432537.8857123738,,,,,,,,,,,5,138,112,0,0,0,0,0,0,20,16
+2014,2251,1,Fire,Broadcast Burning - Covers a majority of the unit,5424031.177364912,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,2254,0,Physical,"Precommercial Thin, Commercial Thin, TSI Certification - Thinning",223812.92998196036,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2257,1,Physical,Range Fences - Area,9243508.486221926,,,,,,,,,,,10,200,160,0,0,0,0,0,0,20,16
+2014,2270,0,Physical,"Precommercial Thin, Commercial Thin, TSI Certification - Thinning",718026.3127212526,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2281,0,Physical,Commercial Thin,139756.3470888972,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,2292,0,Physical,Range Fences - Area,636789.7172266046,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2307,1,Physical,Range Fences - Area,9035235.986671392,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2014,2314,0,Physical,Commercial Thin,157549.68262767422,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,2322,0,Physical,Commercial Thin,413790.04789413535,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,2326,0,Physical,Range Fences - Area,8587040.49518243,,,,,,,,,,,19,380,304,0,0,0,0,0,0,20,16
+2014,2328,0,Chemical,Invasives - Pesticide Application,365635.9865303154,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2338,0,Fire,Wildlife Habitat Prescribed fire,1738011.8934195247,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2014,2344,0,Chemical,Invasives - Pesticide Application,932918.1510281,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2365,0,Physical,Compacting/Crushing of Fuels,5702789.417839271,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,2375,0,Physical,"Chipping of Fuels; Pollinator habitat improved, restored or maintained",4174210.400639263,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,2378,1,"Fire, Physical","Burning of Piled Material, Wildlife Habitat Improvement, Range Forage Improvement",1952290.4893145808,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,2392,1,Physical,"Thinning for Hazardous Fuels Reduction, Group Selection Cut (UA/RH/FH)",443930.9606703194,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2016,2396,1,Chemical,Invasives - Pesticide Application,449579.9341773123,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2016,2400,0,Physical,"Thinning for Hazardous Fuels Reduction, Range Forage Improvement, Wildlife Habitat Improvement",1895105.8680351467,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2401,1,"Fire, Physical","Burning of Piled Material, Wildlife Habitat Improvement, Range Forage Improvement",3240555.1420049137,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,2410,0,"Fire, Physical","Burning of Piled Material, Watershed Resource Activities",39709.85435944524,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2415,1,Fire,Burning of Piled Material,4277694.472066154,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2015,2417,0,"Fire, Physical","Burning of Piled Material, Pollinator habitat improved, restored or maintained",1557931.6745520022,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,2418,0,Physical,"Thinning for Hazardous Fuels Reduction, Pollinator habitat improved, restored or maintained, Group Selection Cut (UA/RH/FH)",1166776.059628592,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2420,1,Chemical,Invasives - Pesticide Application,137515.50681496176,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2014,2421,0,Physical,Compacting/Crushing of Fuels,6297759.0102431625,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2429,0,Chemical,Invasives - Pesticide Application,584135.8260448473,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2432,0,Fire,Burning of Piled Material,532375.726350333,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2437,0,Physical,"Sanitation Cut, Compacting/Crushing of Fuels",707335.2443397769,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2440,0,"Fire, Physical","Burning of Piled Material, Pollinator habitat improved, restored or maintained",162095.40580759436,,,,,,,,,,,2,40,96,0,0,0,0,0,0,20,16
+2016,2441,0,Physical,"Thinning for Hazardous Fuels Reduction, Range Cover Type Conversion",2605233.505012636,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,2451,0,Chemical,Invasives - Pesticide Application,585328.3192338572,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2455,1,Fire,"Broadcast Burning - Covers a majority of the unit, Range Forage Improvement, Wildlife Habitat Improvement",6088192.596751993,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,2457,1,Physical,Invasives - Mechanical /Physical,88445.26077561156,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,2459,1,needs input,Range Control Vegetation,3340125.0092043956,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2016,2462,1,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,4421139.982411593,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,2464,0,Physical,Range Control Vegetation,1868426.913550021,,,,,,,,,,,3,100,48,0,0,0,0,0,0,20,16
+2016,2471,0,Physical,Range Control Vegetation,924851.8384463129,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2474,0,Physical,Thinning for Hazardous Fuels Reduction,1019960.7780881724,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2479,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,14368.268978264572,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2482,0,Physical,Range Fences - Area,1823594.2057029344,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,2487,0,"Fire, Physical","Jackpot Burning - Scattered concentrations, Commercial Thin, Yarding - Removal of Fuels by Carrying or Dragging",1406943.0087007815,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2489,0,Physical,Invasives - Mechanical /Physical,323052.9668828461,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2490,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,9127.167219035937,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2492,1,"Fire, Physical","Burning of Piled Material, Yarding - Removal of Fuels by Carrying or Dragging, Piling of Fuels, Hand or Machine",418168.58503893967,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2016,2500,1,Fire,Burning of Piled Material,236871.04471443733,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2016,2507,1,Physical,Range Fences - Area,203690.87724815353,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2014,2526,0,Physical,Fill-in or Replant Trees,713595.1969019584,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2534,0,Physical,Range Fences - Area,5106492.38144411,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2535,0,needs input,Range Control Vegetation,1682988.6483677283,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2542,0,Physical,Fill-in or Replant Trees,720301.5957601153,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2571,1,Physical,Range Control Vegetation,43191.62943890822,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,2593,0,Fire,Broadcast Burning - Covers a majority of the unit,838319.3914956299,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2594,0,Physical,Plant Trees,513316.39246804896,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,2597,0,Physical,Compacting/Crushing of Fuels,283047.45109242504,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2599,0,Physical,"Precommercial Thin, Yarding - Removal of Fuels by Carrying or Dragging",2227223.372463331,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2604,0,Physical,Range Control Vegetation,1863826.1372646943,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,2606,0,Physical,Range Fences - Area,493530.6461784565,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2611,0,Physical,Range Control Vegetation,6610651.91465514,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2622,1,Physical,Invasives - Mechanical /Physical,52219.08532292695,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,2626,0,Physical,Range Control Vegetation,2591440.597230385,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2632,1,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,3882783.5976976575,,,,,,,,,,,5,119,96,0,0,0,0,0,0,20,16
+2015,2637,0,Physical,Range Control Vegetation,7387.562670070906,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2642,0,Physical,Range Fences - Area,190504.26920673015,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,2653,1,Physical,Invasives - Mechanical /Physical,561737.4278737592,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,2667,0,Physical,Range Control Vegetation,4266358.378450676,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2671,1,Physical,Range Fences - Area,1424789.8438647778,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2016,2685,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,203690.87724815353,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,2704,0,Fire,Burning of Piled Material,3049021.669549525,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2708,0,Physical,Range Fences - Area,23737.049233747635,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2709,0,Physical,Range Control Vegetation,2605087.3309069825,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2712,1,Physical,"Precommercial Thin Piling of Fuels, Hand or Machine",1119905.0928332217,,,,,,,,,,,3,257,224,0,0,0,0,0,0,20,16
+2014,2715,0,needs input,Range Control Vegetation,1369973.438363023,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2721,1,Physical,Fill-in or Replant Trees,533040.2409020178,,,,,,,,,,,6,238,208,0,0,0,0,0,0,20,16
+2014,2723,0,Physical,Yarding - Removal of Fuels by Carrying or Dragging,1284447.7872147975,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2735,1,Fire,Broadcast Burn,8120815.76494811,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,2737,0,Physical,Biomass Removal,3862854.8472568663,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2738,0,Physical,Mastication,626902.0235951507,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2757,0,Chemical,Tebuthiuron,3162933.991992911,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2760,0,Chemical,Tebuthiuron,790171.0299698,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2780,0,Physical,Lop and Scatter,243436.80598353597,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2781,0,Physical,Mastication,602607.9938224665,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,2785,0,Physical,Mowing,107810.6108856974,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2798,0,Fire,Broadcast Burn,11808013.508883296,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,2801,0,Physical,Chipping,92989.01576705155,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2802,0,Fire,Broadcast Burn,3294205.5111959446,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2819,1,Physical,Mastication,136960.74948964553,,,,,,,,,,,7,159,128,0,0,0,0,0,0,20,16
+2016,2820,0,Physical,Chainsaw,6131.03073455996,,,,,,,,,,,1,71,64,0,0,0,0,0,0,20,16
+2016,2822,1,Physical,Plowing/Seeding,1093767.240326996,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,2825,0,Physical,Chainsaw,815758.8090210118,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2831,0,Physical,Mastication,92586.52353444969,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2833,1,Fire,Broadcast Burn,40753.97381923763,,,,,,,,,,,17,340,272,0,0,0,0,0,0,20,16
+2016,2839,0,Fire,needs input,1381591.820477874,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2843,0,Chemical,Tebuthiuron,1841307.348492148,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2853,0,Chemical,Clopyralid,17928177.26904424,,,,,,,,,,,10,200,160,0,0,0,0,0,0,20,16
+2016,2855,0,Chemical,Tebuthiuron,1494050.3665900456,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2016,2860,1,Chemical,Tebuthiuron,675103.4251585806,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2015,2869,0,Chemical,Clopyralid (Reclaim),30804132.14069335,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2870,0,Chemical,Tebuthiuron,27067360.13713285,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2871,1,Chemical,Tebuthiuron,1284098.7251418687,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,2872,0,Chemical,Clopyralid (Reclaim),10818249.577142507,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2875,1,Chemical,Clopyralid (Reclaim),12980357.505216269,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,2882,0,Chemical,Tebuthiuron,6818031.87949132,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,2883,0,Chemical,Tebuthiuron,3754218.6187115954,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2905,1,Chemical,Clopyralid,1301248.9299477555,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,2908,0,Fire,Prescribed Fire,3461925.6408709646,,,,,,,,,,,3,79,64,0,0,0,0,0,0,20,16
+2016,2910,0,Chemical,Tebuthiuron,1477325.4251562215,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,2926,0,Physical,Clopyralid,19093160.17152203,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,2940,0,Chemical,Clopyralid,12563703.842371952,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2944,0,Physical,Clopyralid,8839248.985413002,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2945,0,Chemical,needs input,17201318.304808006,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2015,2949,1,Chemical,Tebuthiuron,663297.6917567509,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,2953,0,Chemical,Tebuthiuron,2273957.189772039,,,,,,,,,,,10,199,160,0,0,0,0,0,0,20,16
+2016,2955,0,Chemical,Clopyralid (Reclaim),4623624.713517628,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,2965,1,Chemical,Clopyralid,5261375.050911144,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,2967,0,Chemical,Triclopy,17718213.914976344,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,2977,0,Fire,Broadcast Burn,177480.42291844037,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,2986,1,"Physical, Fire",thin & burn,37844.149957047295,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,3005,0,Physical,thin,691394.1045651695,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,3017,0,Fire,Broadcast Burning - Covers a majority of the unit,636895.501169334,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3023,1,Fire,Burning of Piled Material,223812.92998196036,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2017,3034,0,Physical,"Salvage Cut (intermediate treatment, not regeneration)",377577.18571242207,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2014,3035,0,Fire,Broadcast Burning - Covers a majority of the unit,246194.6602242413,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,3049,0,Physical,"Rearrangement of Fuels , Range Cover Manipulation",376912.299568342,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,3050,0,Physical,"Precommercial Thin , Thinning for Hazardous Fuels Reduction",762064.7623687577,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,3056,0,Fire,Burning of Piled Material,485726.6497809527,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3079,0,Physical,"Group Selection Cut (UA/RH/FH) , Pollinator habitat improved, restored or maintained",1166776.059628592,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2014,3084,0,Physical,Thinning for Hazardous Fuels Reduction,114184.05646860389,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2017,3098,0,Fire,Broadcast Burning - Covers a majority of the unit,209263.27624345335,,,,,,,,,,,41,820,656,0,0,0,0,0,0,20,16
+2015,3105,0,Physical,Invasives - Mechanical /Physical,227721.6752650704,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,3106,1,Chemical,Invasives - Pesticide Application,233449.19321506747,,,,,,,,,,,11,220,176,0,0,0,0,0,0,20,16
+2016,3111,1,Chemical,Invasives - Pesticide Application,13662.800602244792,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,3117,0,Physical,Extraction/Mastication,125605.85447536116,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,3123,0,Physical,Extraction/Mastication,41344.811697369536,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,3124,0,Physical,Extraction/Mastication,73908.4409900651,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,3129,0,Physical,Hand Crew/Mechanical/Chip/Masticate,16094.636569617544,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,3136,1,Physical,Extraction/Mastication,23104.844395106385,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2015,3137,1,Physical,preferred cut stump,97369.20875450817,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3140,0,Physical,Extraction/Mastication,88251.91230283245,,,,,,,,,,,3,59,48,0,0,0,0,0,0,20,16
+2017,3153,1,Physical,Extraction/Mastication,243393.6143023616,,,,,,,,,,,8,155,128,0,0,0,0,0,0,20,16
+2017,3165,0,Physical,Extraction/Mastication,1262283.9797019942,,,,,,,,,,,5,97,80,0,0,0,0,0,0,20,16
+2014,3174,0,Physical,needs input,60838.61644439804,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,3181,0,"Physical, Chemical",Cut-stump spray/Chip,271938.29559483984,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,3191,0,"Physical, Chemical",extraction/cut stump herbicide,298794.67387245235,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,3192,0,Physical,Extraction/Mastication,35058.535569542975,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,3193,0,Physical,needs input,144401.04428706414,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,3206,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Removal",69990.9590400383,,,,,,,,,,,5,97,80,0,0,0,0,0,0,20,16
+2017,3211,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk",119490.9810516137,,,,,,,,,,,0,0,80,0,0,0,0,0,0,20,16
+2017,3214,1,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk",6312.958376638332,,,,,,,,,,,19,373,304,0,0,0,0,0,0,20,16
+2017,3219,0,Physical,Fuel Break,18326.778800358356,,,,,,,,,,,6,117,96,0,0,0,0,0,0,20,16
+2017,3222,1,Fire,Prescribed Burn,138231.11641297964,,,,,,,,,,,26,515,416,0,0,0,0,0,0,20,16
+2017,3226,0,Fire,Prescribed Burn,280872.5538885299,,,,,,,,,,,4,79,64,0,0,0,0,0,0,20,16
+2017,3227,0,Fire,Prescribed Burn,841105.5171159875,,,,,,,,,,,2,39,32,0,0,0,0,0,0,20,16
+2017,3229,0,Fire,Prescribed Burn,493196.5474207997,,,,,,,,,,,4,79,64,0,0,0,0,0,0,20,16
+2017,3231,1,Fire,Prescribed Burn,335560.17152665544,,,,,,,,,,,8,159,128,0,0,0,0,0,0,20,16
+2017,3234,0,Physical,"Forest Health Thinning, Lop and Scatter",1801790.5618390883,,,,,,,,,,,7,139,112,0,0,0,0,0,0,20,16
+2017,3237,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",555720.5286490037,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,3240,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Mastication",184088.8283674091,,,,,,,,,,,16,320,256,0,0,0,0,0,0,20,16
+2017,3241,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Mastication",81453.11450641222,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3245,0,Physical,Forest Health Thinning,105342.9531283495,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3248,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication, Stump and Spray",87253.87656049193,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,3278,0,Physical,Haz Fuels Reduction,193218.4524394632,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2017,3283,0,Physical,"Thinning, Skid, And Deck",502391.928602566,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2017,3291,1,Physical,Thinning And Pile,313340.08674572344,,,,,,,,,,,12,240,192,0,0,0,0,0,0,20,16
+2017,3295,0,Physical,Thinning And Pile,162505.73718204285,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3311,0,Physical,Thinning,1442.391220656543,,,,,,,,,,,10,200,160,0,0,0,0,0,0,20,16
+2017,3313,0,Physical,Thinning,14785.503941782747,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2017,3322,0,Physical,Thinning,19798.399545018703,,,,,,,,,,,5,95,80,0,0,0,0,0,0,20,16
+2017,3329,0,Physical,Thinning,13928.703783741355,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2017,3338,0,Physical,Thinning,18985.636172318,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2017,3343,0,Physical,"Thinning Lop & Scatter, Remove Wood to Roads",9821.413723923357,,,,,,,,,,,14,278,224,0,0,0,0,0,0,20,16
+2017,3346,0,Physical,"Thinning Lop & Scatter, Remove Wood to Roads",46653.02927543849,,,,,,,,,,,33,645,528,0,0,0,0,0,0,20,16
+2017,3352,0,Physical,"Thinning Dia Limit,Lop,Scat,No Wood Out,Slash In Gulie",7847.93651784543,,,,,,,,,,,6,118,96,0,0,0,0,0,0,20,16
+2017,3356,0,Physical,"Thinning Dia Limit,Lop,Scat,No Wood Out,Slash Gullie",472259.83761541935,,,,,,,,,,,15,300,240,0,0,0,0,0,0,20,16
+2017,3359,1,Physical,Mastication To A Diameter Limit,27021.18988348752,,,,,,,,,,,16,320,256,0,0,0,0,0,0,20,16
+2017,3361,1,Physical,"Hand Thinning, Pile with Paper, Mastication",50547.673824648715,,,,,,,,,,,16,320,252,0,0,0,0,0,0,20,16
+2017,3452,1,Fire,Broadcast burn for maintenance of prior Juniper reduction.  Burn in conjunction with research on fire effects on Kuenzler Cactus.,1604124.3090727911,,,,,,,,,,,10,200,160,0,0,0,0,0,0,20,16
+2018,3505,0,Physical,Rearrangement of Fuels,124494.92756293472,,0.6384886,,223.7444916,,0.5975739,,,,,2,40,0,0,0,0,0,0,0,20,16
+2017,3506,0,Fire,Burning of Piled Material,394727.9951738807,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3514,0,Physical,Rearrangement of Fuels,441708.049994994,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,3518,0,Physical,Invasives - Mechanical /Physical,1015.5668038356766,,,,,,,,,,,3,48,48,0,0,0,0,0,0,16,16
+2017,3523,0,Fire,Burning of Piled Material,182064.7846375834,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,3548,0,Physical,Invasives - Mechanical /Physical,296.1891168387954,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,3557,0,Chemical,Invasives - Pesticide Application,21118.495359633667,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3563,0,Physical,Invasives - Mechanical /Physical,31329.94570910824,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3577,0,Physical,Re-vegetation treatments - vegetation removal,831139.6199547539,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3579,0,Chemical,Invasives - Pesticide Application,40791.07000894594,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3587,0,Chemical,Invasives - Pesticide Application,166108.5572738314,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,3592,0,Physical,Re-vegetation treatments - vegetation removal,81047.42720325278,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,3603,0,Chemical,Invasives - Pesticide Application,39716.3174645893,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,3611,0,Physical,Special Products Removal,85456.6212390876,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,3612,0,Fire,Natural regeneration - prescribed fire,1895105.8702448288,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,3614,0,Physical,Re-vegetation treatments - vegetation removal,1362914.771514831,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,3616,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,1289122.730103843,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3624,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,277784.10320025426,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2017,3630,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,934814.5344615983,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3640,0,Physical,Thinning for Hazardous Fuels Reduction,623059.1875975644,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,3641,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,311401.34344879567,,,,,,,,,,,10,200,160,0,0,0,0,0,0,20,16
+2017,3651,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,68929.09283477486,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,3654,0,Physical,Precommercial Thin,535637.0080247809,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,3661,1,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,1848125.466376505,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2017,3669,0,Physical,Thinning for Hazardous Fuels Reduction,463145.6934855558,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2018,3725,0,Physical,Thinning for Hazardous Fuels Reduction,455788.4578667214,,0.6200141,,215.064148,,0.547186,,,,,3,60,46,0,0,0,0,0,0,20,16
+2018,3731,0,Fire,Broadcast Burning - Covers a majority of the unit,2223710.7595359567,,0.6281951,,225.8914337,,0.5547481,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,3751,0,Physical,REMOVAL/MASTICATION,51382.557217058486,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2015,3753,0,Physical,REMOVAL/MASTICATION,12867.841436983137,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,3765,1,Physical,REMOVAL/MASTICATION,888.0752611445173,,,,,,,,,,,8,160,121,0,0,0,0,0,0,20,16
+2015,3767,0,Chemical,needs input,40421.27201576671,,,,,,,,,,,2,40,0,0,0,0,0,0,0,20,16
+2016,3791,1,Chemical,70 Gallons,121324.31508160608,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2016,3802,0,Physical,Thinning,81955.10949800666,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3809,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Tree Felling and Removal",65506.291177080646,,0.6229451,,217.4332962,,0.5755932,,,,,1,20,0,0,0,0,0,0,0,20,16
+2018,3835,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication, Prescribed Burn, Stump and Spray",9626.66437629901,,0.6436485,,226.069149,,0.5747915,,,,,2,40,31,0,0,0,0,0,0,20,16
+2018,3843,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Prescribed Burn, Tree Felling and Removal",18906.252984306622,,0.655548,,237.4527397,,0.6492883,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,3854,0,Physical,"Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Prescribed Burn",17949.83648602284,,0.6427851,,235.3403511,,0.7277782,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3868,0,Physical,"Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Prescribed Burn",543236.9840800436,,0.6807682,,249.756691,,0.5582918,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3880,0,Physical,"Forest Stand Improvement, Lop and Scatter",1095048.0164997543,,0.6676146,,247.7137069,,0.5594545,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3882,0,Physical,"Forest Stand Improvement, Lop and Scatter",164647.35762525233,,0.620862,,220.5106277,,0.5530025,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3883,0,Physical,"Chipping, Forest Health Thinning",73296.19422707293,,0.6544269,,237.8559723,,0.7320195,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3884,0,Physical,"Forest Stand Improvement, Lop and Scatter",333274.4803835672,,0.7557554,,279.4379395,,0.5557944,,,,,9,180,141,0,0,0,0,0,0,20,16
+2018,3885,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk",28719.946686362295,,0.7619845,,294.6268769,,0.5528329,,,,,7,140,111,0,0,0,0,0,0,20,16
+2018,3886,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk",3774.4960306568455,,0.7736098,,295.9800018,,0.5297754,,,,,5,100,79,0,0,0,0,0,0,20,16
+2018,3888,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk",8803.822778781097,,0.7480502,,297.8845329,,0.5109746,,,,,2,40,0,0,0,0,0,0,0,20,16
+2018,3899,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",245096.7807651575,,0.7732057,,313.2457962,,0.4441773,,,,,2,40,31,0,0,0,0,0,0,20,16
+2018,3908,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",5466.558142453072,,0.5318072,,139.3059057,,0.4069538,,,,,12,240,192,0,0,0,0,0,0,20,16
+2018,3911,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",24735.882614151407,,0.4195324,,251.2310352,,0.2702236,,,,,21,420,336,0,0,0,0,0,0,20,16
+2018,3913,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",144691.7053051934,,0.4138205,,248.4660797,,0.2448379,,,,,27,540,432,0,0,0,0,0,0,20,16
+2018,3915,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",99753.11109433742,,0.7488771,,283.0175782,,0.5172884,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,3924,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",15050.613691069571,,0.7760623,,477.1052602,,0.1879058,,,,,27,540,432,0,0,0,0,0,0,20,16
+2018,3927,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",11951.224713870777,,0.4524734,,160.8850759,,0.4403499,,,,,10,200,160,0,0,0,0,0,0,20,16
+2018,3930,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",18750.60245502384,,0.6255316,,510.8264542,,0.0788448,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,3932,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",12251.783922583436,,0.6453351,,213.0754852,,0.461366,,,,,6,120,0,0,0,0,0,0,0,20,16
+2018,3935,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Remov",19816.71180840926,,0.6860481,,256.3267721,,1.157736,,,,,3,57,46,0,0,0,0,0,0,20,16
+2018,3939,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",7049.35136374678,,0.8539162,,469.9481659,,0.2325842,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,3941,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",123535.37252102834,,0.8552574,,475.1946818,,0.2365147,,,,,12,240,192,0,0,0,0,0,0,20,16
+2018,3943,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",1965.6438941283125,,0.8124524,,505.0162658,,0.5880514,,,,,9,180,144,0,0,0,0,0,0,20,16
+2018,3944,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",3200.083871064815,,0.9427807,,493.7563985,,0.5187911,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,3946,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",311308.3395868762,,0.9437993,,489.8795166,,0.5148165,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,3949,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Lop and Scatter",20246.772151892594,,0.9442857,,488.7972209,,0.5138074,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,3950,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",14301.65903610674,,0.9082531,,481.4919332,,0.4331468,,,,,54,1067,864,0,0,0,0,0,0,20,16
+2018,3951,0,Physical,"Chipping, Hazardous Fuel Reduction Around Community at Risk",60007.427332273255,,0.916016,,490.6664734,,0.3822317,,,,,7,139,112,0,0,0,0,0,0,20,16
+2018,3962,0,Physical,Forest Health Thinning,60359.74602852087,,0.8965441,,476.0933329,,0.3382123,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,3969,0,Fire, ,225294.4952705168,,0.8128961,,272.9476471,,0.6399968,,,,,5,96,80,0,0,0,0,0,0,20,16
+2018,3970,0,Fire, ,1250827.7805350006,,0.7192652,,277.5219574,,0.3380664,,,,,5,100,76,0,0,0,0,0,0,20,16
+2018,3975,0,Physical,Removing encraching PJ,91938.3470703354,,0.7696998,,288.6964416,,0.2425371,,,,,58,1121,928,0,0,0,0,0,0,20,16
+2018,3978,0,Physical,Project funded through an agreement with NWTF with savings from a previous project.,2051337.113698545,,0.704789,,247.6495819,,0.2897153,,,,,34,667,544,0,0,0,0,0,0,20,16
+2018,3980,0,Chemical, ,17679875.598180775,,0.6470856,,166.5330734,,0.7272307,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,3984,0,Chemical, ,2037383.8915679445,,0.6809532,,177.2536036,,0.7818489,,,,,6,120,96,0,0,0,0,0,0,20,16
+2018,3995,0,Physical,Juniper trees for tentative pile burn winter of 2018/2019,820131.6301502424,,0.7253095,,239.0273819,,0.5917399,,,,,19,380,304,0,0,0,0,0,0,20,16
+2018,3997,0,Chemical,Aerial spray with NMACD for creosote and follow up with RX. Teb @ 32.00/acre,13183852.374490144,,0.708768,,249.7664985,,0.7702906,,,,,8,160,128,0,0,0,0,0,0,20,16
+2018,3999,0,Physical,3rd quarter one time funding for FY 2018,562418.342704106,,0.7480974,,254.094841,,0.6581264,,,,,20,400,320,0,0,0,0,0,0,20,16
+2018,4019,0,Chemical,FY 2018 Mesquite,12397565.47705406,,0.7383588,,280.8059489,,0.7701544,,,,,6,120,96,0,0,0,0,0,0,20,16
+2018,4028,0,Physical,Plant Trees,83481.72991866867,,0.7617985,,249.6611404,,0.737535,,,,,0,0,31,0,0,0,0,0,0,20,16
+2018,4030,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,46589059.90734222,,0.7315248,,233.3828796,,0.9101321,,,,,7,140,112,0,0,0,0,0,0,20,16
+2018,4045,0,Physical,"Range Cover Manipulation, Precommercial Thin, Rearrangement of Fuels",999075.8453294665,,0.6919017,,235.9264069,,0.6912425,,,,,10,200,155,0,0,0,0,0,0,20,16
+2017,4053,0,Physical,"Range Cover Manipulation, Thinning for Hazardous Fuels Reduction, Rearrangement of Fuels, Piling of Fuels, Hand or Machine ",965402.4878207552,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,4058,0,Physical,Range Cover Manipulation,444909.875273317,,0.6745456,,219.4676953,,0.6872695,,,,,28,560,433,0,0,0,0,0,0,20,16
+2017,4066,0,Physical,Planned Treatment Burned in Wildfire,2072492.8772231597,,,,,,,,,,,3,58,48,0,0,0,0,0,0,20,16
+2018,4067,0,Physical,Tree Release and Weed,1062136.8802094443,,0.6980838,,241.9486633,,0.8144544,,,,,11,220,171,0,0,0,0,0,0,20,16
+2018,4074,0,Physical,"Plant Trees, Animal Damage Control for Reforestation",41230.96801133361,,0.7227665,,289.9983113,,0.6310818,,,,,11,220,173,0,0,0,0,0,0,20,16
+2016,4086,0,Physical,Plant Trees,172683.24067225112,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4094,0,Physical,"Piling of Fuels, Hand or Machine",30668.711261198212,,0.6922443,,289.4176941,,0.7345884,,,,,2,40,0,0,0,0,0,0,0,20,16
+2017,4102,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,86313225.14816867,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,4103,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,26126839.25421285,,0.8134273,,267.1740189,,1.1208541,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,4110,0,Physical,Invasives - Mechanical /Physical,40274.20030031141,,0.8287335,,266.0648905,,1.0830924,,,,,7,140,112,0,0,0,0,0,0,20,16
+2018,4113,0,Physical,Precommercial Thin,45646.22047851055,,0.8245232,,250.3266144,,1.0270799,,,,,5,100,80,0,0,0,0,0,0,20,16
+2018,4127,0,Physical,Precommercial Thin,724187.9356505232,,0.685654,,247.4272041,,0.5763756,,,,,48,950,0,0,0,0,0,0,0,20,16
+2018,4133,1,Physical,Invasives - Mechanical /Physical,16717.737746589803,,0.7505025,,240.5938759,,1.0137055,,,,,7,159,128,0,0,0,0,0,0,20,16
+2018,4134,0,Physical,Invasives - Mechanical /Physical,41547.003277600845,,0.7225432,,210.450119,,0.7555212,,,,,7,140,110,0,0,0,0,0,0,20,16
+2018,4137,0,Chemical,Invasives - Pesticide Application,6317454.5663242815,,0.7496172,,239.1796684,,1.0044772,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4143,0,Physical,Range Cover Manipulation,149479.22293129505,,0.7420304,,230.8336449,,0.9977686,,,,,8,217,176,0,0,0,0,0,0,20,16
+2018,4148,0,Physical,Range Cover Manipulation,3866548.201148127,,0.7372985,,242.8443108,,1.0118703,,,,,3,136,112,0,0,0,0,0,0,20,16
+2018,4150,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,3286021.896924604,,0.6831864,,219.2537201,,0.8553861,,,,,5,100,80,0,0,0,0,0,0,20,16
+2018,4163,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,5784574.591864208,,0.7302593,,233.5450775,,0.9101296,,,,,9,180,144,0,0,0,0,0,0,20,16
+2018,4167,0,Physical,Invasives - Mechanical /Physical,33983.453989821755,,0.657497,,251.8457527,,0.8191226,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,4173,0,Physical,Thinning,2857.498503251944,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,4191,0,Physical,Thinning,17610.847306642496,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,4192,0,Physical,Thinning,44817.44234176543,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,4195,0,Physical,Thinning,5428.667247530528,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,4200,0,Physical,Thinning,8061.974555271104,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,4201,0,Physical,Thinning,10369.82130744872,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,4213,0,Physical,Thinning,51554.98022537029,,0.6565075,,232.8424301,,0.7021488,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,4239,0,Physical,Forest Stand Improvement,64104.06075415939,,0.6604121,,235.0240021,,0.643697,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4241,0,Physical,Forest Health Thinning,40748.07423638031,0.3847658,0.5701766,245.2596675,146.7428988,1.1164657,1.2368439,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4242,0,Physical,Forest Health Thinning,41779.214485450015,0.3819849,0.5781909,226.6795398,149.4638488,1.0279192,1.2873031,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,4247,0,Physical,Hazardous Fuel Reduction Around Community at Risk,10921.594064440606,0.4005721,0.5878146,224.8175812,144.5637948,0.8625957,0.946834,,,,,2,59,48,0,0,0,0,0,0,20,16
+2019,4249,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Removal",32368.54173278826,0.5203088,0.6436954,143.7261462,219.6459945,0.8987872,0.93402,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4262,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",4673.6534575512505,0.3479442,0.5012241,71.1919638,133.6649196,0.3985086,0.4198861,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4268,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Removal",40402.46626007465,,0.6586264,,252.8570748,,0.7857836,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,4270,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",9839.618005115728,,0.6674024,,253.9808807,,0.7412204,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,4275,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",92422.30338143182,,0.6624596,,247.2795906,,0.6567039,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4276,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",399561.2835115545,0.421138,0.421138,144.1978953,144.1978953,0.8043237,0.8043237,,,,,1,20,20,0,0,0,0,0,0,20,20
+2019,4277,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",51516.81001346421,0.503629,0.547347,403.2215304,243.9403126,0.7981737,0.9220534,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4296,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Tree Felling and Removal",34441.50882103587,0.5305245,0.6174483,442.4538523,298.1857363,0.6730443,0.7913252,,,,,1,39,32,0,0,0,0,0,0,20,16
+2019,4309,0,Physical,"CUT SKID & DECK,Forest Health Thinning, Forest Stand Improvement, Tree Felling and Removal",49132.390273316014,0.449183,0.449183,103.2871001,103.2871001,0.93276,0.93276,,,,,1,16,16,0,0,0,0,0,0,16,16
+2018,4323,0,Physical,"Chipping, Hazardous Fuel Reduction Around Community at Risk, Tree Felling and Removal",4773.147095288963,,0.6696521,,262.6325798,,0.8049486,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4334,0,Physical,"Chipping, Hazardous Fuel Reduction Around Community at Risk, Mastication, Tree Felling and Removal",19217.78570239564,0.4564584,0.5157275,269.9368772,121.4489776,1.0375659,1.4238716,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4340,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Tree Felling and Removal",532826.0797265471,0.3707557,0.4849467,106.5961939,113.9821612,1.1124091,2.1003326,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4342,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication, Tree Felling and Removal",39077.295006788605,0.395159,0.5936273,288.4922229,136.6565889,0.7416298,0.9472352,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4346,0,Fire,Broadcast Burning - Covers a majority of the unit,379404.93611922546,0.3874725,0.5600771,96.869599,193.7788291,0.5438395,0.524252,,,,,0,0,16,0,0,0,0,0,0,20,16
+2018,4349,0,Fire,Broadcast Burning - Covers a majority of the unit,2181629.991714184,,0.6769097,,262.6325798,,0.690759,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4355,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",8124.179488109238,0.4526646,0.5890744,313.6273044,149.2712345,0.595003,0.7755607,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4360,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",6994.367687126646,0.4186458,0.559909,100.973233,232.8073231,0.7038475,0.5480227,,,,,0,0,79,0,0,0,0,0,0,20,16
+2014,4371,0,"Physical, Fire",Thinning,381703.19271539326,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,4373,0,Fire,Broadcast Burning - Covers a majority of the unit,1119500.1062757368,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4386,0,Fire,Broadcast Burning - Covers a majority of the unit,24404769.159624133,0.5140434,0.5701284,508.6473206,265.8576889,0.5907368,0.8047844,,,,,2,59,48,0,0,0,0,0,0,20,16
+2019,4388,0,Fire,Burning of Piled Material,856950.3148809329,0.5250994,0.5614895,507.2277863,252.8611186,0.5616894,0.7822718,,,,,3,79,64,0,0,0,0,0,0,20,16
+2017,4390,0,Fire,Burning of Piled Material,1021305.4704385728,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4393,0,Physical,"Forest Health Thinning, Mastication, Tree Felling and Removal",445782.19830885687,0.3691123,0.585476,223.8019905,243.3644959,0.8720664,1.0160342,,,,,4,95,80,0,0,0,0,0,0,20,16
+2019,4398,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",5801.294640122367,0.4147331,0.6083017,252.2915354,265.0698402,0.9589667,0.9265058,,,,,3,59,48,0,0,0,0,0,0,20,16
+2019,4402,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",12875.274507964488,0.3718614,0.5945702,218.2925285,242.3582539,0.9951472,1.1023893,,,,,3,76,63,0,0,0,0,0,0,20,16
+2019,4410,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",816.7592435223202,0.3570288,0.5543998,220.6798988,231.4124382,0.8133161,0.9869111,,,,,0,0,47,0,0,0,0,0,0,20,16
+2019,4411,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Mastication",447.3751109816216,0.3631573,0.5640592,225.8354767,236.5313503,0.7454094,0.9383291,,,,,4,95,80,0,0,0,0,0,0,20,16
+2019,4424,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",81039.94560588272,0.3482593,0.5815413,246.164761,340.8797396,0.6053662,0.8195927,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4427,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",50317.36874173256,0.3650618,0.5050894,286.8581009,271.6512899,0.2848732,0.8535114,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,4432,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Mastication",535997.5819342646,0.3799297,0.4793014,287.6450068,262.944828,0.1855942,0.8712948,,,,,0,0,48,0,0,0,0,0,0,20,16
+2019,4442,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",5798.010426458617,0.3892495,0.5254205,409.738718,278.2778594,0.2038393,0.6901513,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,4443,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",32889.05973387264,0.3826017,0.5396269,418.3290425,282.1975022,0.2375793,0.675796,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4446,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",12483.46519284261,0.3619716,0.561995,290.2523359,286.8592278,0.3435815,0.6787867,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4448,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",38573.97447740413,0.3903406,0.4463062,108.5116806,238.3407919,0.5463413,0.6154803,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4449,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",2115.466975481714,0.4183645,0.4736583,111.3498586,255.9565711,0.5583673,0.6312901,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4451,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",4473.956709413138,0.3986936,0.4562115,102.9446392,247.4464356,0.555885,0.6860743,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4455,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",2877.76466405698,0.3959854,0.6182335,287.5086975,313.4970093,0.3487339,0.8265602,,,,,4,80,64,0,0,0,0,0,0,20,16
+2019,4459,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",3383.177809667001,0.3944558,0.6094856,278.129851,313.6588623,0.4664193,0.9587686,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4476,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",11942.180824333014,0.4061789,0.5433941,267.7493229,291.7053235,0.558251,0.714881,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4491,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",1253.8440613789405,0.3419019,0.4423787,97.2133285,254.3639755,0.639449,0.6541941,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4492,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",1030.2449432971896,0.3921633,0.4733746,93.6752625,268.6457183,0.4271811,0.664555,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4493,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",1028.70856389943,0.3925539,0.4700089,93.6328488,267.234125,0.4268018,0.6805475,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4498,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",3833.252468293837,0.3854257,0.4512676,104.9336212,236.9024409,0.5756253,0.5811962,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4506,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",6821.600876902968,0.3572656,0.524256,169.2389267,130.9083443,1.4420567,1.3902596,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,4515,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",4467.744215891639,0.356942,0.5215055,170.7069683,129.9050296,1.4999545,1.393261,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4518,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",4585.888529196004,0.2942508,0.5002509,190.2993846,120.8624479,1.1684346,1.2867575,,,,,7,139,112,0,0,0,0,0,0,20,16
+2019,4532,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",1190.7651962729667,0.4298953,0.5067088,151.8837733,115.9154682,0.7109971,0.9953906,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4535,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",1896.0338386836363,0.419522,0.5019803,149.8924356,114.4399686,0.7556951,1.0515483,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4544,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",958.0761968159469,0.4288536,0.5204204,150.1867864,119.8127661,0.7058621,0.9258997,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4549,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",2215.130980355205,0.426372,0.5045057,151.9549094,114.977139,0.6803822,0.9361512,,,,,2,39,32,0,0,0,0,0,0,20,16
+2019,4561,0,Physical,"Chipping, Forest Health Thinning, Hazardous Fuel Reduction Around Community at Risk, Mastication",40664.4870644566,0.4213726,0.5046094,377.4804802,115.2748618,0.7485378,1.0235152,,,,,2,39,32,0,0,0,0,0,0,20,16
+2019,4564,0,Physical,"Chipping, Hazardous Fuel Reduction Around Community at Risk",2162.7648733254982,0.4325981,0.5112684,152.7525204,116.5721026,0.6367162,0.894759,,,,,0,0,16,0,0,0,0,0,0,20,16
+2017,4587,0,Physical,Thinning,394699.35367209214,,,,,,,,,,,4,78,64,0,0,0,0,0,0,20,16
+2018,4589,0,Physical,Thinning,322433.3107217603,,0.6666689,,246.7096901,,0.7362203,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4591,0,Physical,CSP Machine,865822.1999315809,,0.660339,,261.2738571,,0.7017832,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,4595,0,Physical,Heavy Mechanical,877060.0951484425,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2016,4596,0,Physical,TSI Light,377150.47509226686,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4606,0,"Chemical, Physical",Chemical \ Hand,36308.33033742071,0.3989355,0.4742309,300.8565171,107.6857368,0.9976889,1.5472346,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4608,0,"Chemical, Physical",Chemical \ Hand,10290.677481277877,0.3961106,0.5149379,287.212935,118.5639907,0.9984626,1.4386751,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4616,0,Chemical,Chemical,2971.7816565549315,0.3995175,0.5038381,298.0623558,115.4300796,0.9586461,1.439042,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4621,0,Chemical,Chemical,10923.453699500931,0.4031518,0.5082067,309.0994577,117.0502112,0.9263905,1.3641953,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4624,0,Chemical,Chemical,85845.39430216346,0.3972989,0.5061056,280.892992,116.3284539,0.9743726,1.4713561,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4625,0,Chemical,Chemical,25913.97207560575,0.395923,0.5087051,259.0842145,117.4253265,1.0212338,1.480573,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,4633,0,Chemical,Chemical,4728.86376705352,0.3948944,0.5121748,271.498133,117.6315058,1.0120724,1.463834,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4636,0,Chemical, ,1150207.534344406,0.4202099,0.4768197,143.9542105,110.9185248,0.7579331,0.8454634,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,4652,0,"Chemical, Physical",Chemical \ Hand,551970.8463052657,,0.6710102,,236.4789009,,0.9047991,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4655,0,"Chemical, Physical", ,4093.473289388081,,0.6772802,,251.1745962,,0.6542869,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,4658,0,"Chemical, Physical",Chemical \ Hand,30357.77024421149,,0.6590216,,235.0383987,,0.6979423,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4678,0,"Chemical, Physical",Chemical \ Hand,50476.167255668704,,0.6579409,,259.4756966,,0.7743005,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,4683,0,"Chemical, Physical",Chemical \ Hand,1405190.3819181647,,0.6572864,,234.1343727,,0.6715285,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4685,0,"Chemical, Physical",Chemical \ Hand,521751.58058948483,,0.7154097,,258.6284981,,0.6627799,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,4687,0,"Chemical, Physical",Chemical \ Hand,80255.82275919137,,0.705503,,256.4706879,,0.6480208,,,,,4,80,63,0,0,0,0,0,0,20,16
+2018,4710,0,"Chemical, Physical",Chemical \ Hand,596353.2593866235,,0.6611424,,234.3465385,,0.8759703,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4711,0,"Chemical, Physical",Chemical \ Hand,789531.3972373758,,0.6706262,,212.7570877,,0.4417337,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4715,0,"Chemical, Physical",Chemical \ Hand,24123.740896899093,,0.7364332,,224.9166336,,0.4110572,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4716,0,"Chemical, Physical",Chemical \ Hand,279440.30319348036,,0.6007617,,195.5673904,,0.5926278,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,4719,0,"Chemical, Physical",Chemical \ Hand,80013.09408549717,,0.8507886,,352.9507904,,0.4234752,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,4722,0,"Chemical, Physical",Chemical \ Hand,180339.82855642692,,0.8181381,,331.8959503,,0.3009664,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,4743,0,"Chemical, Physical",Chemical \ Hand,156353.51923061808,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,4748,0,"Chemical, Physical",Chemical \ Hand,489543.5212393652,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,4755,0,"Chemical, Physical",Chemical \ Hand,2194889.6721482966,,,,,,,,,,,2,40,40,0,0,0,0,0,0,20,20
+2017,4760,0,"Chemical, Physical",Chemical \ Hand,72416.27773912341,,,,,,,,,,,2,178,32,0,0,0,0,0,0,20,16
+2017,4763,0,"Chemical, Physical",Chemical \ Hand,50522.473239538514,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,4777,0,"Chemical, Physical",Chemical \ Hand,54775.15929795134,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2017,4789,0,"Chemical, Physical",Chemical \ Hand,37521.81676783602,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2017,4791,0,"Chemical, Physical",Chemical \ Hand,1463.0757124943964,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2017,4800,0,"Chemical, Physical", ,27531.250017165672,,,,,,,,,,,3,59,48,0,0,0,0,0,0,20,16
+2018,4807,0,Physical,Mechanical,249130.4171342663,,0.7133507,,224.2871781,,0.4244395,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4818,0,Fire,Broadcast Burning - Covers a majority of the unit,1315566.3850091833,0.4538479,0.6063486,295.2625051,152.1986307,0.7937916,0.9728254,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4831,0,Physical,Thinning for Hazardous Fuels Reduction,1017181.5335635844,0.4531953,0.6088469,291.0278597,152.5410151,0.7646022,0.9381424,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4836,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,3109.7894836132814,0.4251087,0.5905163,331.586568,247.7557981,0.9697371,1.0007885,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4839,0,Physical,Thinning for Hazardous Fuels Reduction,2651220.0027048206,0.4199016,0.4964295,110.3234444,120.8396201,0.5588435,0.7190585,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4858,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",7557.781324591247,0.4403932,0.5606084,383.6275112,191.5634234,0.707973,0.8869651,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4859,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",30759.849702012012,0.4643757,0.5525892,131.8227469,170.1562181,0.4405718,0.7730487,,,,,4,80,64,0,0,0,0,0,0,20,16
+2019,4865,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",8265.131780332154,0.4094903,0.5679369,300.1326567,140.6564784,0.7051674,0.9574099,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4868,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",82021.87057965534,0.4178554,0.5498741,311.6919352,143.8059764,0.7859455,1.065173,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4872,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",80866.9162684346,0.4121398,0.5695502,296.2203884,141.3176875,0.7245001,0.9928633,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4875,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",9555.313460869209,0.4160117,0.5673773,297.6139672,140.8406057,0.7368132,1.0233011,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4876,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",8020.568847247285,0.4181506,0.5582415,306.3131256,146.82724,0.8196939,1.0714792,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4877,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",12449.42603477332,0.4291528,0.5763289,515.5474083,221.9974129,0.5072257,0.6863365,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4884,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Mastication, Tree Felling and Removal",84031.79075650651,0.4282316,0.5703807,498.1120922,220.7044746,0.5676616,0.7779466,,,,,3,58,48,0,0,0,0,0,0,20,16
+2019,4901,0,Physical,MLS,92301.64801482917,0.3372617,0.5400255,582.7870688,204.4169815,0.5838349,0.8202839,,,,,2,39,32,0,0,0,0,0,0,20,16
+2019,4906,0,Physical,MLS,22296.744046468044,0.4189196,0.5655663,511.9414665,216.0402001,0.4906758,0.6600904,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4917,0,Physical,TH,13687.463693501171,0.3348525,0.5098162,210.9827995,191.9500771,0.4393371,0.7683605,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4925,0,Physical,TH,33595.501743679146,0.3390647,0.5326631,211.1193969,144.5931142,0.4930446,0.8457521,,,,,3,59,48,0,0,0,0,0,0,20,16
+2019,4927,1,Physical,MHP,1035864.4957766174,0.3447105,0.3447105,582.9817205,582.9817205,0.5244857,0.5244857,,,,,9,178,178,0,0,0,0,0,0,20,20
+2019,4929,0,Physical,MLS,5719262.981512537,0.4160368,0.5438391,99.0282606,121.2938964,0.8471107,0.6329655,,,,,0,0,0,0,0,0,0,0,0,20,16
+2019,4932,0,Chemical,REC,64832106.58468429,0.4093966,0.5591201,107.4730829,127.0395338,1.1111147,0.8808728,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4933,0,Physical,TH,629854.5879886916,0.4120857,0.5432653,101.5104205,121.1415547,0.8933615,0.6748404,,,,,0,0,0,0,0,0,0,0,0,20,16
+2019,4934,0,Chemical,TEBD,3241616.217437819,0.4093811,0.5602792,107.2326095,127.3211532,1.1145999,0.8834587,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,4937,0,Biological,Cows,542638.2758762818,0.4070205,0.5754487,102.9220269,130.9368159,1.1109426,0.8838843,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4947,0,Fire,PFH,372702.8232750568,0.4039095,0.4964844,103.6468296,108.9039063,0.8058248,0.6437961,,,,,0,0,0,0,0,0,0,0,0,20,16
+2019,4949,0,Physical,MHP,101184.1147222134,0.4452068,0.5266846,132.6735516,140.4132675,0.4091769,0.7186955,,,,,2,73,62,0,0,0,0,0,0,20,16
+2019,4958,0,Fire,PFJ,1620062.32712802,0.4529066,0.4902914,111.9031734,125.5741031,0.3306541,0.7255932,,,,,0,0,96,0,0,0,0,0,0,20,16
+2019,4959,0,Fire,PFJ,643213.4892907332,0.5340231,0.5108383,108.8660634,121.6789158,0.5618968,0.7550659,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,4966,0,Physical,Fill-in or Replant Trees,659410.7367508027,0.5370938,0.5185096,117.6282043,122.5636604,0.2993326,0.6830325,,,,,0,0,31,0,0,0,0,0,0,20,16
+2019,4967,0,Physical,Range Forage Improvement,6420536.255990051,0.5370558,0.5246871,115.6651815,124.6235697,0.3310213,0.6858513,,,,,0,0,31,0,0,0,0,0,0,20,16
+2019,4971,0,Physical,Plant Trees,169488.86040910456,0.4081157,0.5301646,99.2308378,119.5440283,0.7791136,0.7049912,,,,,0,0,0,0,0,0,0,0,0,20,16
+2019,4982,0,Physical,Plant Trees,418087.17794343265,0.3555766,0.5196385,94.5500539,138.737043,0.4326612,0.7591362,,,,,3,59,48,0,0,0,0,0,0,20,16
+2019,4990,0,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,895048.4042542622,0.5031487,0.5163536,154.2789536,132.028487,0.4941372,0.6361328,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,4997,0,Physical,Range Cover Manipulation,5050632.577793905,0.3911707,0.6327426,106.4068845,208.1061417,1.3367529,1.2475931,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,4998,0,Physical,Thinning for Hazardous Fuels Reduction,379278.99681186426,0.4119613,0.6080265,118.3316963,175.5960918,1.3518329,1.4673064,,,,,7,140,112,0,0,0,0,0,0,20,16
+2019,5004,0,Physical,Precommercial Thin,10435.160946048265,0.5009287,0.5747898,145.2452611,198.0969409,0.7521588,0.7521588,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,5011,0,Chemical,Invasives - Pesticide Application,68330.37274871206,0.5372988,0.6333905,167.3006941,232.8945637,0.6035441,0.7668938,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5039,0,Physical,Rearrangement of Fuels,86658.11698805075,0.3937977,0.4310157,113.5608203,162.2483764,0.3557659,0.6380675,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5046,0,Physical,Precommercial Thin,1041772.2263022754,0.4282518,0.5196364,116.4661112,187.2023784,0.4117293,0.6245439,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5049,0,Physical,Commercial Thin,354070.89581863827,0.4322321,0.5084043,118.904973,184.9894088,0.4252278,0.6292164,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5050,0,Physical,Thinning for Hazardous Fuels Reduction,2342236.816137081,0.4281149,0.5904575,263.4673481,245.2750619,1.0304646,0.9560159,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,5054,0,Physical,Precommercial Thin,27822.91943074344,,0.8203685,,327.1849009,,0.4084421,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5074,0,Fire,Broadcast Burning - Covers a majority of the unit,15499769.436845807,0.393551,0.601755,256.4109078,273.8893906,0.8816387,0.8684821,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5080,0,Physical,Sanitation Cut,219739.45166661224,0.4188633,0.5366104,248.5848052,234.7289321,0.6786506,0.7758085,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5096,0,Physical,Thinning for Hazardous Fuels Reduction,202931.99741378683,0.4147856,0.5285583,248.5090752,232.3774436,0.6621672,0.7414117,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,5097,0,Physical,Precommercial Thin,202931.99741378683,0.4024997,0.59363,265.5691604,238.8065643,0.9140484,0.9139364,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5112,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Tree Felling and Removal",125485.13016864107,0.4182064,0.5344898,252.3435033,234.6058038,0.6891386,0.7629252,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,5124,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",9754.725735797487,0.4072384,0.5496112,262.8741005,238.5269629,0.7267653,0.8272289,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5131,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",30175.9197269884,0.4170015,0.5189826,244.0454884,227.7639001,0.6774492,0.7773886,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,5132,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",4470.214448911624,0.4178574,0.5437728,250.3215491,236.1181911,0.6686333,0.7542432,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5177,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",3526.967788964408,0.3610823,0.4942644,93.5996732,118.9424732,0.7495877,1.2373498,,,,,4,210,176,0,0,0,0,0,0,20,16
+2019,5182,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",90829.97087327512,0.4037652,0.5303844,124.9417915,141.2010973,1.140929,1.0024536,,,,,49,980,784,0,0,0,0,0,0,20,16
+2019,5187,0,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",23648.963189446866,0.3500287,0.543614,89.543765,137.0398909,1.23915,1.4592347,,,,,21,458,368,0,0,0,0,0,0,20,16
+2019,5191,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",32035.927574281333,0.3551178,0.5638603,361.4899712,264.6530293,0.6094502,0.85252,,,,,47,932,752,0,0,0,0,0,0,20,16
+2019,5197,0,Fire,Prescribed Burn,8695.904581425897,0.3105224,0.5450817,185.4906101,130.0051042,0.9930667,0.845675,,,,,5,97,80,0,0,0,0,0,0,20,16
+2020,5207,1,Physical,Rearrangement of Fuels,49179.23689072069,0.4114345,0.4742587,207.2046994,113.0957443,0.6079922,1.016447,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,5214,1,Physical,Extraction/Removal of Non-native plants along riparian zone (Russian Olive/Salt Cedar/Siberian Elm),10901.010289538806,0.3631265,0.3938246,97.3329549,92.7431757,0.5579898,1.0572622,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,5226,1,Physical,Extraction/Removal of Non-native plants along riparian zone (Russian Olive/Salt Cedar),23690.48420903869,0.5119289,0.5709384,150.2832189,235.9289421,0.9043678,0.9707796,,,,,9,180,144,0,0,0,0,0,0,20,16
+2017,5230,0,Physical,Mastication,2577044.121633283,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,5241,0,Physical,Hand Thinning,134137.61687780218,,0.7897014,,319.4253311,,0.3409937,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,5243,0,Physical,Mechanical Thinning - Other,151020.59416996586,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5258,0,Physical,"Forest Health Thinning, Forest Stand Improvement, Lop and Scatter",80993.4850371803,0.3658209,0.5544273,206.9054458,217.2964919,1.245083,1.1739049,,,,,5,99,80,0,0,0,0,0,0,20,16
+2020,5269,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",221823.38191723276,0.3857787,0.3745416,122.0668631,90.0639702,0.4229522,0.8321582,,,,,6,120,96,0,0,0,0,0,0,20,16
+2020,5273,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",48605.02081730519,0.4522902,0.473101,179.7671881,139.3713079,0.3833468,0.8992206,,,,,2,151,0,0,0,0,0,0,0,20,16
+2020,5274,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",21352.31410870511,0.448825,0.4410609,180.9753562,110.8821591,0.7618963,1.3693993,,,,,9,180,144,0,0,0,0,0,0,20,16
+2020,5276,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",8793.268996718014,0.4280396,0.4269397,119.9098117,143.7135971,0.4703321,0.7442881,,,,,9,180,144,0,0,0,0,0,0,20,16
+2020,5288,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",86069.97130747035,0.4182792,0.4184829,115.3548533,144.7095698,0.5012662,0.7722148,,,,,13,260,208,0,0,0,0,0,0,20,16
+2020,5290,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",827.5319966414838,0.4528384,0.4418825,178.4560452,110.3043719,0.5484666,0.9979815,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5313,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",842.91179867076,0.4493014,0.4370508,177.4426885,109.191629,0.5335332,0.986966,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,5318,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",5194.428238952881,0.4425857,0.4096307,165.640852,103.9290625,0.5179308,1.0592027,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5319,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",5090.661412560436,0.4768186,0.4743745,211.263876,127.7674586,0.8326752,1.4520846,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5325,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",20507.63870328732,0.4239206,0.4477519,174.4054713,143.3109007,0.6192831,1.1828887,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,5326,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk, Mastication",31667.091139449167,0.4361084,0.461655,179.945583,148.5231588,0.652448,1.2108263,,,,,7,140,112,0,0,0,0,0,0,20,16
+2019,5341,0,Physical,Yarding - Removal of Fuels by Carrying or Dragging,47347.190938744796,0.4890346,0.6006821,147.5635732,155.2987425,0.7636986,1.387094,,,,,3,60,48,0,0,0,0,0,0,20,16
+2020,5347,1,Physical,Acres Improved - Construction/Reconstruction of Range Grz Structural Improv Area,2198012.3226952814,0.4576656,0.4403583,114.5509547,89.803146,0.4702738,0.8958077,,,,,18,360,288,0,0,0,0,0,0,20,16
+2020,5349,1,Physical,Pre-Commercial Thinning,177942.20728898107,0.4397672,0.4366242,211.9376897,100.9653133,1.0902412,1.507727,,,,,30,583,480,0,0,0,0,0,0,20,16
+2014,5352,0,Physical,Pre-Commercial Thinning,102736.97498917877,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,5355,0,Physical,Pre-Commercial Thinning,183570.5751196007,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,5359,1,Physical,Pre-Commercial Thinning,206607.43693229076,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2015,5363,0,Physical,Pre-Commercial Thinning,136627.74545156243,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,5364,0,Physical,Pre-Commercial Thinning,128688.09880112697,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,5368,0,Physical,Pre-Commercial Thinning,151493.87099369848,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,5378,0,Physical,Pre-Commercial Thinning,60935.880144956565,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,5380,0,Physical,Pre-Commercial Thinning,175880.63875143876,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,5383,0,Physical,Pre-Commercial Thinning,410119.9054491688,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,5386,0,Physical,Pre-Commercial Thinning,214002.1570451127,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2015,5398,0,Physical,Pre-Commercial Thinning,177035.39777153175,,,,,,,,,,,2,59,47,0,0,0,0,0,0,20,16
+2015,5402,0,Physical,Pre-Commercial Thinning,177689.2169482576,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,5406,0,Physical,Pre-Commercial Thinning,376958.83875092247,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,5411,0,Physical,Pre-Commercial Thinning,277527.87093585986,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,5420,0,Physical,Pre-Commercial Thinning,652298.5573513032,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,5422,0,Physical,Pre-Commercial Thinning,396705.48372747446,,0.8190021,,331.0233002,,0.2522399,,,,,1,20,16,0,0,0,0,0,0,20,16
+2020,5441,1,Physical,Pre-Commercial Thinning,50596.58988894965,0.4169828,0.3870724,175.9011298,86.5599758,0.3636831,0.980932,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,5444,0,Physical,Hazardous Fuels Reduction,229580.14952870124,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,5447,1,Physical,Hazardous Fuels Reduction,694514.18820819,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,5467,0,Fire,Machine Pile Burn,622841.8170193435,,0.8136404,,329.1247559,,0.2666088,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,5469,0,Fire,Machine Pile Burn,350547.70582630206,,0.7617401,,310.2564698,,0.2443058,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,5471,0,Chemical,TEB,4866871.693449158,,0.7967653,,329.6536789,,0.5216857,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5475,0,Physical,TH,1620643.4265093426,0.3224744,0.5828097,180.512805,230.0431425,0.8720473,1.0052971,,,,,4,78,64,0,0,0,0,0,0,20,16
+2019,5480,0,Chemical,TEB,632450.5522473701,0.3683036,0.553707,189.9105797,273.9550896,1.223402,0.9722848,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,5483,0,Physical,MLS,60082.561771164925,0.3676208,0.5394774,197.4515846,202.9465828,1.0682153,0.9609766,,,,,4,79,64,0,0,0,0,0,0,20,16
+2019,5490,0,Physical,MLS,5129.54197472414,0.4914047,0.6020847,147.959053,155.2561498,0.7569617,1.3824679,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5503,0,Physical,TH,6325.376012837819,0.4884521,0.5888363,147.9412486,147.4968371,0.7971192,1.4145071,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,5504,0,Physical,TH,14798.29390553036,0.3796897,0.4500054,100.3209335,108.2989063,0.7342354,1.2868253,,,,,28,921,740,0,0,0,0,0,0,20,16
+2019,5509,0,Physical,TH,153598.84156679397,0.4222488,0.5633829,115.1453171,145.6774519,0.9501814,1.135421,,,,,6,120,96,0,0,0,0,0,0,20,16
+2019,5512,0,Physical,TH,615162.3865449717,0.3790641,0.5620565,177.9401932,218.6530953,1.2701137,1.1591527,,,,,5,115,96,0,0,0,0,0,0,20,16
+2019,5513,0,Physical,MLS,42853.08544278701,0.3294765,0.5776552,272.8236999,229.1965705,0.7094639,1.1501859,,,,,5,96,80,0,0,0,0,0,0,20,16
+2019,5515,1,Physical,TH,137764.8087266835,0.427503,0.6105085,322.7356926,295.1956586,1.1932504,1.0293896,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,5519,0,Physical,TH,42853.998158971335,0.4288229,0.5940546,322.323217,287.3404127,1.0263312,1.073544,,,,,2,40,32,0,0,0,0,0,0,20,16
+2020,5534,1,Fire,PFB,31683.66990549269,0.4883416,0.4548524,183.0622121,105.2279009,0.357261,1.0300029,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5543,1,Fire,PFB,1864241.787057432,0.4593182,0.4276215,218.3621793,94.0594065,0.3981175,1.296483,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,5550,1,Fire,PFH,811680.1595083369,0.3292314,0.3019399,134.692329,91.4798463,0.4515841,0.8909097,,,,,8,160,128,0,0,0,0,0,0,20,16
+2020,5554,1,Physical,cut and piled,142221.21667145193,0.3678571,0.3471404,145.905631,107.0459932,0.4711789,0.7389731,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5557,1,Physical,chain buffer,154803.55764958647,0.3714544,0.3523362,147.2639022,109.3039178,0.4693657,0.7232147,,,,,3,60,48,0,0,0,0,0,0,20,16
+2020,5559,1,Physical,piled,122773.95717744826,0.3657196,0.3245899,147.0073202,101.359983,0.4701227,0.8003606,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,5565,1,Physical,Thinning for Hazardous Fuels Reduction,97109.58887478322,0.3334873,0.3034942,133.3313907,93.6334299,0.4780361,0.8613777,,,,,12,240,192,0,0,0,0,0,0,20,16
+2020,5567,1,Chemical,Invasives - Pesticide Application,410134.9085556684,0.3647708,0.3136845,145.5275114,98.0335932,0.4321891,0.8756247,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,5569,1,Fire,Planned Treatment Burned in Wildfire,193894.43655697565,0.3762344,0.3283289,149.272665,103.2383966,0.4329071,0.8498713,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,5571,1,Physical,Wildlife Habitat Prescribed fire,193894.43655697565,0.3811009,0.3367886,150.6492405,107.2851952,0.4374723,0.824883,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,5580,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Tree Felling and Removal",45666.15980317733,0.4814019,0.5885542,173.3345202,158.5294253,0.5419605,1.006246,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,5581,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Mastication",83225.65134803737,0.3554745,0.4054801,126.4218976,111.0475869,0.5607429,0.664386,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5583,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Mastication",9749.98165367119,0.4695433,0.630201,150.7111664,156.8483192,0.6177553,0.9891897,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5591,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",30474.65052700556,0.3189001,0.5683544,112.6946991,137.835829,0.9121945,0.7711615,,,,,6,119,92,0,0,0,0,0,0,20,16
+2020,5592,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",11331.07607208608,0.3817119,0.3317434,155.9862323,104.895825,0.4293105,0.8426811,,,,,8,160,128,0,0,0,0,0,0,20,16
+2020,5594,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",4303.386401326622,0.4014386,0.3410574,167.5167613,110.4840183,0.4308877,0.8679248,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5602,1,Physical,Mastication,62400.336036731336,0.3410077,0.5779434,151.4321136,140.3985634,0.3637483,0.6788351,,,,,5,99,0,0,0,0,0,0,0,20,16
+2021,5604,1,Physical,Mastication,161358.02352684367,0.3436572,0.5889312,144.8903618,146.5374407,0.4845082,1.0173662,,,,,6,119,0,0,0,0,0,0,0,20,16
+2021,5610,1,Physical,Forest Health Thinning,40170.267816846186,0.3513724,0.5871033,131.4872882,146.0544815,0.4504352,1.0109971,,,,,6,119,0,0,0,0,0,0,0,20,16
+2018,5617,0,Physical,Thinning,13994.337256973575,,0.767984,,318.3842392,,0.659172,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,5619,0,Physical,Thinning,9915.423911820413,0.4741394,0.638,128.5992623,192.7605352,1.0510484,1.063737,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5624,0,Physical,Thin / Chip,15121.232836844163,0.4741292,0.6094426,127.7023392,180.497149,1.1023886,1.1052169,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5630,0,Physical,Thin / Lop / Deck,4118.738495015453,0.4695617,0.6278327,102.535115,187.231631,1.0500583,1.0890373,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,5632,0,Physical,Thinning,18998.057547136435,0.4701099,0.6411435,126.5454394,198.7140476,1.1972747,1.0934357,,,,,3,60,48,0,0,0,0,0,0,20,16
+2020,5639,1,Physical,Thin / Chip,6250.211743774711,0.3959106,0.374312,155.4288052,91.9333861,0.3796076,0.9193251,,,,,16,320,256,0,0,0,0,0,0,20,16
+2020,5644,1,Physical,Thin / Lop / Deck,59562.60070642478,0.5127953,0.4802466,238.4617846,122.970923,0.6396579,1.0902872,,,,,6,120,96,0,0,0,0,0,0,20,16
+2020,5656,1,Physical,Thin / Mastication,156201.1383803078,0.5080836,0.4701112,235.6705475,119.724617,0.6253738,1.0944206,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,5665,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",195063.76260637055,0.3509715,0.5857941,129.7853712,145.2843181,0.4270605,0.9669227,,,,,6,130,0,0,0,0,0,0,0,20,16
+2021,5668,1,Physical,"Forest Stand Improvement, Fuel Break, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",169964.9014722962,0.3316359,0.6314136,78.5392734,154.3558273,1.0229192,0.998342,,,,,0,0,87,0,0,0,0,0,0,20,16
+2021,5677,1,Physical,Chipping,14216.342005445233,0.3524726,0.636134,83.0161492,157.9505016,0.9373188,0.9624232,,,,,0,0,133,0,0,0,0,0,0,20,16
+2021,5678,1,Physical,Chipping,13032.175032604468,0.4319586,0.6039995,157.8068057,156.8799146,0.7106097,0.9890351,,,,,18,360,288,0,0,0,0,0,0,20,16
+2021,5688,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Mastication",20002.20994675741,0.4701013,0.6021633,118.9652911,220.0860942,1.4225127,0.9968685,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5699,1,Physical,Lop and Scatter,42284.40679177377,0.4836217,0.602824,129.2294736,297.9888043,1.3676086,1.3546678,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5714,1,Physical,Lop and Scatter,1002522.1615161718,0.4112527,0.5011248,124.3679891,126.8737113,0.5350866,0.8573281,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,5730,0,Physical, ,6019594.105307344,0.4312239,0.6069551,270.1244221,262.5310343,0.8447982,0.8849913,,,,,2,40,32,0,0,0,0,0,0,20,16
+2021,5737,1,Fire, ,67649.51368936306,0.4084453,0.4785142,119.0064238,119.5319287,0.5922549,0.9288663,,,,,9,180,144,0,0,0,0,0,0,20,16
+2020,5738,1,Physical, ,2444493.5660641934,0.5113069,0.4695984,235.5707674,119.7899534,0.6637356,1.1326462,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,5739,1,Fire,Deer Trail Piles Rx FY21,627115.789856352,0.5144499,0.4759314,236.6646249,121.9567193,0.7019283,1.1703851,,,,,4,80,64,0,0,0,0,0,0,20,16
+2021,5766,1,Fire,FY21 El Rito Canyon Piles Rx,988076.038889204,0.4081179,0.4710635,118.7953886,115.9650831,0.5460889,0.9084335,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,5772,1,needs input, ,125652.74654606843,0.443931,0.591421,154.0033798,149.9279111,0.7077657,1.0825392,,,,,10,200,160,0,0,0,0,0,0,20,16
+2021,5775,1,needs input, ,16270.518306793896,0.410649,0.5197299,121.5005774,126.5558504,0.5184149,0.857401,,,,,9,180,144,0,0,0,0,0,0,20,16
+2021,5777,1,needs input, ,20912.262052052327,0.413383,0.568838,150.0669882,143.2282936,0.5841802,0.9238492,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,5789,1,Fire,Broadcast Burning - Covers a majority of the unit,10973819.470622526,0.4017224,0.564476,145.8073099,141.5971378,0.5491264,0.8769079,,,,,6,119,96,0,0,0,0,0,0,20,16
+2021,5792,1,Physical,Precommercial Thin,915475.2676167869,0.4099363,0.5878819,148.7670597,155.6178603,0.61978,0.8423261,,,,,7,138,112,0,0,0,0,0,0,20,16
+2021,5799,1,Physical,Pre-Commercial Thinning,168343.15652421876,0.407498,0.585214,146.9823106,154.9012777,0.6351103,0.8566515,,,,,7,138,112,0,0,0,0,0,0,20,16
+2019,5803,0,Physical,Pre-Commercial Thinning,253907.89554198048,0.4092418,0.5461203,273.4932152,237.0319131,1.210364,1.1063912,,,,,1,20,16,0,0,0,0,0,0,20,16
+2020,5810,1,Physical,Pre-Commercial Thinning,82628.64448026163,0.5198118,0.5198118,241.6656449,241.6656449,0.6672857,0.6672857,,,,,5,100,100,0,0,0,0,0,0,20,20
+2020,5817,1,Physical,Pre-Commercial Thinning,960229.9456361321,0.4634976,0.3935797,171.6598303,109.9537259,0.2887138,0.8035446,,,,,3,114,95,0,0,0,0,0,0,20,16
+2020,5826,1,Physical,Pre-Commercial Thinning,47967.31501081344,0.4288684,0.430982,162.9321988,117.805603,0.3668361,0.7020393,,,,,0,0,0,0,0,0,0,0,0,20,16
+2020,5830,1,Physical,Pre-Commercial Thinning,514518.4626632546,0.5122163,0.5221605,198.3161202,139.1189643,0.7623664,1.0580875,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,5833,1,Physical,Commercial_Harvest,50596.58988894965,0.4309536,0.3599459,206.8780022,83.9376049,0.4423353,1.1134938,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,5847,1,Physical,"Lop and Scatter, Mastication",249823.70265597338,0.4018065,0.5794958,147.2918987,152.4809026,0.6075263,0.8550902,,,,,5,98,80,0,0,0,0,0,0,20,16
+2021,5855,1,Physical,"Lop and Scatter, Mastication",118115.952574625,0.4049684,0.5814809,145.5549793,153.7214366,0.6659497,0.8863701,,,,,5,98,80,0,0,0,0,0,0,20,16
+2021,5859,1,Physical,"Lop and Scatter, Mastication",43696.86738642101,0.4689411,0.6754863,132.1965196,226.6920236,1.2975582,0.8349502,,,,,4,80,64,0,0,0,0,0,0,20,16
+2021,5872,1,Physical,"Lop and Scatter, Mastication",52834.136303538544,0.3617213,0.5423005,104.7226979,314.8898748,1.3344283,0.8821632,,,,,4,80,64,0,0,0,0,0,0,20,16
+2021,5877,1,Physical,"Lop and Scatter, Mastication",41208.25976998849,0.4075072,0.5900742,129.2160064,139.4328086,1.2109812,1.1453513,,,,,9,180,144,0,0,0,0,0,0,20,16
+2021,5878,1,Physical,"Lop and Scatter, Mastication",419196.6345695906,0.3553645,0.4952085,104.42313,107.9012104,0.8327411,0.6059053,,,,,8,175,139,0,0,0,0,0,0,20,16
+2021,5880,1,Physical,"Lop and Scatter, Mastication",939565.4617703054,0.3641295,0.497725,111.4980388,108.8574448,0.8163228,0.6188457,,,,,8,177,140,0,0,0,0,0,0,20,16
+2021,5887,1,Physical,"Lop and Scatter, Mastication",80276.93205094704,0.374838,0.4843798,114.4104449,104.3799939,0.6743101,0.6162086,,,,,5,118,91,0,0,0,0,0,0,20,16
+2021,5889,1,Physical,"Lop and Scatter, Mastication",161358.03659542344,0.3694436,0.4777473,113.1685893,102.1599888,0.6392072,0.6108622,,,,,4,98,0,0,0,0,0,0,0,20,16
+2021,5890,1,Physical,"Lop and Scatter, Mastication",201046.11141797545,0.3847547,0.486095,120.2880769,109.0359354,0.687876,0.6201343,,,,,9,196,154,0,0,0,0,0,0,20,16
+2021,5896,1,Physical,nan,158311.0175031773,0.3733888,0.4820846,115.0687311,102.5940865,0.6652567,0.6544023,,,,,5,117,0,0,0,0,0,0,0,20,16
+2021,5898,1,Physical,Forest Stand Improvement,1365658.85511827,0.3802556,0.4914062,118.2683701,111.1581101,0.698069,0.5951675,,,,,6,118,94,0,0,0,0,0,0,20,16
+2021,5902,1,Physical,Forest Health Thinning,25912.906918557335,0.3254985,0.4932116,95.839324,112.7439899,0.9101186,0.613887,,,,,9,178,143,0,0,0,0,0,0,20,16
+2021,5911,1,Physical,"Mastication, Stump and Spray",7988.507148563509,0.3450444,0.504696,100.8997476,111.7156741,0.8836355,0.6171683,,,,,7,138,111,0,0,0,0,0,0,20,16
+2021,5915,1,Physical,"Mastication, Stump and Spray",3169.7159484753174,0.3586195,0.4838669,104.8997597,103.5620126,0.6454261,0.5826933,,,,,6,135,106,0,0,0,0,0,0,20,16
+2021,5927,1,Fire,Burning of Piled Material,38349.73996778263,0.3894746,0.4972591,120.5087153,111.7527719,0.6452849,0.6340429,,,,,6,136,0,0,0,0,0,0,0,20,16
+2021,5945,1,Physical,Thinning for Hazardous Fuels Reduction,283390.8647458507,0.3917408,0.5314957,130.1496389,119.3845982,0.6853402,0.6101818,,,,,4,113,0,0,0,0,0,0,0,20,16
+2022,5956,1,Physical,"Forest Health Thinning, Mastication, Tree Felling and Removal",67571.28291015362,148.9683121,123.6367656,107.0174558,131.0675567,0.63159,1.0617228,,,,,8,160,120,0,0,0,0,0,0,20,15
+2022,5965,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",63966.77855628847,169.2528964,111.8604366,167.1021961,191.3419949,0.8583626,1.0251322,,,,,7,140,101,0,0,0,0,0,0,20,15
+2021,5977,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",11365.645910173407,0.3913342,0.5375379,130.3006229,120.5965445,0.7005554,0.5856981,,,,,0,0,91,0,0,0,0,0,0,20,16
+2020,5998,1,Physical,Mastication,1224035.1750797655,0.4396868,0.3742226,210.1636562,86.9032893,0.4297511,0.9975378,,,,,9,180,144,0,0,0,0,0,0,20,16
+2020,6001,1,Physical,Thinning,435259.38417062064,0.4106666,0.4106666,149.8026231,149.8026231,0.4857272,0.4857272,,,,,5,100,100,0,0,0,0,0,0,20,20
+2020,6008,1,Physical,Thinning,1987548.08772914,0.4314801,0.4056026,159.457531,97.4024165,0.4887945,1.0389823,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6015,1,Physical,Thinning,873669.5446573014,0.3672724,0.469552,117.7626175,111.179229,0.4759893,0.6893963,,,,,5,99,80,0,0,0,0,0,0,20,16
+2018,6029,0,Physical,Thinning,4136.015050072454,,0.8326113,,345.6959152,,0.5606956,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,6037,0,Physical,Thinning,8066.208413358627,,0.8075694,,331.2080689,,0.4349438,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6042,0,Physical,Thin / Chip,441.4590902887549,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2020,6063,1,Physical,Thin / Mastication,167.49407845113075,0.4295568,0.402989,158.2841052,92.7076441,0.4871494,1.0102036,,,,,6,120,96,0,0,0,0,0,0,20,16
+2020,6074,1,Physical,Thin / Chip,5323.822298109446,0.4241543,0.3908053,156.0127332,89.0136656,0.4847239,1.0357308,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6090,1,Physical, ,40345399.86450068,0.483919,0.5845156,185.1676505,154.7289415,0.5901747,0.9056185,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6093,1,Physical, ,365053.8736799325,0.4876778,0.6057576,174.4314161,171.8836562,0.764341,1.2332381,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6101,1,Fire,BANEY RX - Unit 6 and 7,1984195.7529665176,0.4875145,0.5961147,173.1995982,162.7273442,0.7992073,1.2871623,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6109,1,Fire,"THUNDERBIRD  21 - Romero, OX 1, Green Acre, and Aurouch",2384131.6167108864,0.4912999,0.5960749,168.3958807,161.5855895,0.773612,1.2147923,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6118,1,Fire,Taos Ski Valley Piles Rx FY22,163389.58348473778,0.4872719,0.5997042,173.4692174,169.3349628,0.7860398,1.2715065,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6127,1,Fire,AZTEC SPRINGS SOUTH RX,1230496.2422483985,0.4859471,0.5873129,167.7759397,154.4606687,0.5647391,0.9933518,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6130,1,Fire,STABLE CANYON RX,6449525.342717336,0.4134678,0.4292187,103.2784707,83.2133437,0.4284907,0.4353198,,,,,6,115,96,0,0,0,0,0,0,20,16
+2021,6134,1,Fire,"THUNDERBIRD  21 - Romero, OX 1, Green Acre, and Aurouch",2384131.6167108864,0.4481329,0.4307563,110.4506772,83.9052353,0.4031356,0.4391109,,,,,7,134,112,0,0,0,0,0,0,20,16
+2021,6140,1,Physical,PUEBLO RIDGE IRTC TSI CONTRACT FY 2021,438065.04717041674,0.4423415,0.4562434,109.056469,86.5837526,0.3890853,0.3876542,,,,,0,0,112,0,0,0,0,0,0,20,16
+2021,6141,1,Physical,PUEBLO RIDGE IRTC TSI CONTRACT FY 2021,438065.04717041674,137.2767925,112.7084446,118.4185629,89.6765551,0.4367764,0.4446289,,,,,5,96,80,0,0,0,0,0,0,20,16
+2021,6144,1,Fire,COPPERTAN RX 21,6867157.936712424,115.8698205,138.9204615,125.3769779,145.0635282,0.7419465,0.9585033,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6145,1,Physical,SAN JOSE GRUBBED/CUT TREATMENT 2021,306230.52814177715,123.1593408,145.0335516,142.7415415,170.4496843,0.9057417,0.9714856,,,,,9,180,144,0,0,0,0,0,0,20,16
+2021,6147,1,Physical, ,557191.6504706774,119.0758857,140.8117915,131.8646244,152.5870672,0.8337171,1.0212469,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6149,1,Chemical, ,2027.94089152934,124.642399,148.0863571,145.2640621,178.5751809,1.0103087,1.1790034,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6154,1,Physical,FY21 NMDGF ERC Thinning,4668697.591725049,123.8678922,148.5605408,144.3724552,179.9914686,1.004761,1.2084817,,,,,9,180,144,0,0,0,0,0,0,20,16
+2021,6170,1,Physical, ,188462.227111388,112.5204452,141.6080387,133.6217877,156.0723385,0.8636593,1.0101833,,,,,9,180,144,0,0,0,0,0,0,20,16
+2021,6173,1,Fire,FY21 Ring Rx,20107296.94089797,135.2671109,130.7435277,141.7603479,157.3757087,1.2161396,1.4719802,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6182,1,Physical,Group Selection Cut,40826.5233855338,123.9013381,155.8179316,116.690568,149.2455355,1.0040385,1.1710381,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6185,1,Fire,FY21 Bighorn/Stateline Rx,864274.3022490642,123.2449039,155.5758664,115.5828055,147.8880521,1.023327,1.1827011,,,,,7,140,112,0,0,0,0,0,0,20,16
+2022,6230,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",405061.9727047836,167.6096779,114.1207923,165.8801813,205.7577947,0.7800913,0.6860466,,,,,8,160,115,0,0,0,0,0,0,20,15
+2022,6234,1,Physical,"Mastication, Tree Felling and Removal",8810.231916859748,167.8223421,112.8996147,166.6315782,205.5185044,0.7770553,0.7160942,,,,,6,120,89,0,0,0,0,0,0,20,15
+2022,6241,1,Physical,Lop and Scatter,160009.82883043535,166.2853573,113.2981972,161.0617197,204.5233104,0.7821105,0.6722553,,,,,7,140,101,0,0,0,0,0,0,20,15
+2022,6242,1,Physical,Lop and Scatter,136413.80603252837,168.5867848,114.5802032,168.2119344,207.0927957,0.806871,0.7147897,,,,,5,100,73,0,0,0,0,0,0,20,15
+2022,6282,1,Fire,Burning of Piled Material,4934563.7606641995,157.4902998,113.0391981,143.9256068,197.1443631,0.793679,0.7164318,,,,,7,140,0,0,0,0,0,0,0,20,15
+2022,6284,1,Fire,Broadcast Burning - Covers a majority of the unit,413453.0017748145,157.1168093,111.7996308,136.4902622,179.8194532,1.021831,0.8340273,,,,,7,140,103,0,0,0,0,0,0,20,15
+2022,6288,1,Fire,Broadcast Burning - Covers a majority of the unit,9608510.435764305,142.3085193,106.4756931,109.7450076,143.7934552,0.7705501,0.9638478,,,,,6,120,90,0,0,0,0,0,0,20,15
+2020,6308,1,Physical,Thinning/Fuelwood,154910.4782485822,0.4296635,0.403691,158.2906602,92.9511114,0.4881028,1.0105424,,,,,9,180,144,0,0,0,0,0,0,20,16
+2022,6312,1,Physical,Thinning/Fuelwood,79042.60269204077,142.7983522,106.3680091,111.1686032,144.0153146,0.7930422,0.9737104,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,6315,1,Physical,Chipping,33756.861341002026,141.7250808,105.4986683,107.2637469,141.1457699,0.8351792,1.0224098,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,6318,1,Physical,Lop and Scatter,50048.75894126641,146.5135434,107.6008489,123.8989498,146.7258364,0.8564957,1.0913795,,,,,5,100,75,0,0,0,0,0,0,20,15
+2021,6342,1,Physical,Precommercial Thin,198450.90376532477,129.4299477,155.3071216,119.8488804,149.8037243,0.9797428,1.1204637,,,,,8,160,128,0,0,0,0,0,0,20,16
+2022,6349,1,Physical,"Piling of Fuels, Hand or Machine",316882.4183527128,146.1589058,107.3168372,123.1555593,145.7655554,0.8886598,1.1388982,,,,,10,200,150,0,0,0,0,0,0,20,15
+2017,6368,0,Fire,Machine Pile Burn,73531.87479395169,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,6382,0,Physical,Thinning,20415.407336609875,0.431095,0.6038675,268.0930443,261.3063171,0.6951911,0.7849581,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,6384,0,Physical,Thinning,9495.174433151347,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,6388,0,Physical,Thinning,954567.6337398102,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,6412,0,Physical,Thinning,27716.870959695887,,0.7787166,,328.9046402,,0.2979066,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,6449,0,Physical,Thinning,65931.7841402819,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6456,0,Other,Chemical,103856.11720075988,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,6465,0,Physical,Lop and Scatter,727790.4855836196,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2014,6470,0,Physical,Chipping,307039.4439204968,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2016,6472,0,Physical,Biomass Removal,23342.23856107132,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2014,6475,0,Fire,Broadcast Burn,811799.8967310984,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,6482,1,Physical,Thinning,187107.43238465532,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2016,6484,0,Physical,Lop and Scatter,37705.20554430277,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,6490,0,Physical,Thinning,627179.9899766463,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6498,0,Physical,Mowing,8951.253935302566,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6502,0,Physical,Lop and Scatter,21219.519495394616,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6504,0,Other,Chemical,5188.472905560426,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,6519,1,Physical,Lop and Scatter,32374.25074611924,,,,,,,,,,,7,140,106,0,0,0,0,0,0,20,16
+2019,6530,0,Physical,Thinning,482928.1709870316,0.4199982,0.5419649,251.5730476,236.3234065,0.5089136,0.5826974,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,6540,1,needs input, ,80997.69656033827,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2017,6548,0,Physical,Mastication,166074.38950636509,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,6549,0,Physical,Mastication,132344.4952458873,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6561,0,Physical,Thinning,13339.883482795687,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,6571,0,Fire,Hand Pile Burn,76509.10703237593,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2016,6573,0,Physical,Lop and Scatter,187107.43238465532,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,6584,1,Physical,Hand Pile,307039.4439204968,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2015,6591,0,Fire,Broadcast Burn,289843.14236511214,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,6598,0,Physical,Hand Pile,21571.801099939978,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6600,0,Physical,Lop and Scatter,714553.5794435687,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,6620,0,Physical,Hand Pile,717865.395140399,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2017,6624,0,Physical,Thinning,287061.05958050094,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6668,0,Physical,Mowing,5143.439014007725,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,6681,0,Physical,Hand Pile,315888.72555748094,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,6696,0,Physical,Lop and Scatter,691031.2005430755,,0.6860915,,252.860878,,0.7915429,,,,,3,60,0,0,0,0,0,0,0,20,16
+2018,6697,0,Physical,Lop and Scatter,521200.3237009559,,0.6780237,,249.228775,,0.8101935,,,,,2,40,0,0,0,0,0,0,0,20,16
+2018,6705,0,Other,Chemical,1066889.7829824227,,0.6726591,,249.7596703,,0.7531752,,,,,3,60,45,0,0,0,0,0,0,20,16
+2018,6706,0,Physical,Mastication,824128.7039985188,,0.6232109,,242.7258034,,0.5769133,,,,,1,20,0,0,0,0,0,0,0,20,16
+2017,6725,0,Physical,Mastication,311384.62321911607,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2020,6731,1,Physical,Thinning,998716.4003727622,0.4273604,0.4039265,156.5573342,93.8303561,0.4746924,0.9782359,,,,,7,140,112,0,0,0,0,0,0,20,16
+2019,6747,0,Physical,Thinning,482768.28102342715,0.3992394,0.4556711,110.420723,242.4778434,0.5411002,0.590742,,,,,6,120,96,0,0,0,0,0,0,20,16
+2020,6751,1,Physical,Thinning,16987.783709522562,0.4392496,0.4645108,164.8048117,116.7884271,0.7754381,1.2769579,,,,,10,200,160,0,0,0,0,0,0,20,16
+2020,6754,1,Physical,Hand Pile,2712850.656041764,0.4227175,0.4441135,152.1222121,118.5237656,0.6711796,1.2218805,,,,,9,180,144,0,0,0,0,0,0,20,16
+2020,6756,1,Fire,Hand Pile Burn,425562.5441778547,0.411623,0.4267321,147.6424399,114.0294566,0.6708279,1.2755973,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,6772,1,Fire,Hand Pile Burn,113994.26946873595,0.4653951,0.4505335,179.7777586,111.7279897,0.7170749,1.2294836,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,6774,1,Physical,Mowing,17588.70807320789,0.4587599,0.5193362,166.7345041,134.3211911,0.9939347,1.2097497,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,6785,1,Fire,Hand Pile Burn,8345.901547904294,117.2263697,139.8212129,116.4411886,233.2337256,1.3888055,1.4335279,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,6789,1,Physical,Hand Pile,5190.339763978412,117.6676055,142.0322325,117.8101313,234.0344372,1.424974,1.4461692,,,,,12,240,192,0,0,0,0,0,0,20,16
+2021,6795,1,Physical,Lop and Scatter,45348.84006136412,121.809027,137.8604783,122.7696039,230.1448564,1.3611824,1.3561002,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,6802,1,Physical,Thinning,42864.52614914461,0.439223,0.4557739,165.1937249,112.8351143,0.6981896,1.2378568,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6803,1,Physical,Thinning,32181.91527179702,118.7088763,138.079114,118.5715176,232.9020702,1.3526366,1.3664428,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,6809,1,Physical,Thinning,800327.3914386024,132.8228918,136.3619982,115.2665177,176.1968208,1.6252064,1.3535256,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6818,1,Other,Chemical,106516.3870465929,148.3854517,181.3198578,129.8765972,222.968356,1.2207819,0.8298332,,,,,8,160,128,0,0,0,0,0,0,20,16
+2016,6825,0,Physical,Hand Pile,221697.98296150193,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2022,6830,1,Physical,Thinning,54557.65774116983,144.118671,95.7728769,109.6046436,198.6018193,0.5950552,0.3648256,,,,,9,180,135,0,0,0,0,0,0,20,15
+2014,6837,0,Fire,Broadcast Burn,63466.90212315948,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,6841,0,Physical,Biomass Removal,521.9187695506891,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2017,6854,0,Physical,Thinning,521.9187695506891,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,6860,0,Physical,Biomass Removal,103730.0395268353,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2019,6871,0,Physical,Biomass Removal,103730.0582080534,0.3663322,0.4446405,112.0934105,238.3202292,0.6496843,1.6654689,,,,,3,60,48,0,0,0,0,0,0,20,16
+2020,6884,1,Physical,Mowing,209568.77460747227,0.4457872,0.4731872,167.2423064,118.3975551,0.7218303,1.1939621,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,6889,1,Fire,Broadcast Burn,974439.0218882755,147.2237344,179.5431844,129.3911717,216.8394303,1.21014,0.8635288,,,,,8,160,128,0,0,0,0,0,0,20,16
+2015,6897,0,Physical,Lop and Scatter,324212.67478830693,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2018,6901,0,Fire,Machine Pile Burn,1284061.99539548,,0.7991815,,238.2324677,,0.6897848,,,,,2,40,32,0,0,0,0,0,0,20,16
+2021,6906,1,Physical,Thinning,51481.815790047425,148.4830883,189.7433128,128.2596117,215.3399502,1.3085567,0.9138367,,,,,6,120,96,0,0,0,0,0,0,20,16
+2020,6909,1,Other,Chemical,1694597.7241645472,0.4594921,0.5199981,166.9606363,134.5459045,0.9599229,1.1834779,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,6911,1,Other,Chemical,17671694.269581083,126.9871466,109.4819007,102.7063851,131.8813964,1.0056725,0.7773174,,,,,5,100,80,0,0,0,0,0,0,20,16
+2018,6938,1,Physical,Thinning,140.39326037299287,,0.6791009,,260.6827444,,0.4674712,,,,,5,100,0,0,0,0,0,0,0,20,16
+2018,6957,1,Physical,Thinning,255.54255207575943,,0.7049112,,226.5616913,,0.8065342,,,,,7,140,108,0,0,0,0,0,0,20,16
+2014,6959,0,Physical,Hand Pile,20716.14741324718,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2019,6970,0,Other,Chemical,774649.5514831146,0.3586569,0.4345099,105.7503357,104.5609428,0.8609232,0.8960493,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,6972,0,Other,Chemical,374175.7414426964,0.408932,0.5485966,276.3526192,237.7393163,1.0218101,0.952333,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,6980,0,Physical,Thinning,34087.05050401514,0.4292959,0.6109782,262.9207179,264.5472339,0.8276357,0.8760021,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,6981,0,Physical,Thinning,20040.886240730102,0.4103427,0.5460496,276.6031174,236.8077462,0.6888911,0.7852102,,,,,1,20,16,0,0,0,0,0,0,20,16
+2017,6983,0,Physical,Mastication,299108.19875172625,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,6991,0,Other,Chemical,1987.2479145492011,0.4190538,0.5449261,249.4773986,237.1851352,0.8271821,0.8754449,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,6992,0,Other,Chemical,774649.5514831146,0.4111362,0.548246,278.068882,237.7142381,0.7969667,0.8490658,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,7007,0,Physical,Lop and Scatter,394926.1036726805,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,7012,0,Physical,Mastication,1437929.3925330003,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7021,0,Physical,Mastication,1987.2479145492011,0.4061403,0.564302,256.6172127,242.6630669,0.6696863,0.7607809,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,7025,0,Physical,Mastication,221703.13473509744,0.4187516,0.5525197,250.4378205,238.9862289,0.6728738,0.7605715,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7043,0,Other,Chemical,32713.73931789281,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7046,0,Other,Chemical,1570653.5395636354,,,,,,,,,,,1,20,0,0,0,0,0,0,0,20,16
+2014,7056,0,Other,Chemical,479157.89502751565,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2014,7068,0,Physical,Thinning,12843.276692765012,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2016,7074,0,Physical,Thinning,20698.102639167428,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2016,7083,0,Physical,Mastication,21232.029675461446,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7084,0,Physical,Mastication,469216.29974850186,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,7086,0,Physical,Mastication,155238.09632017516,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7088,0,Physical,Mastication,77264.78169707053,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7092,0,Other,Chemical,371202.36262519105,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7096,0,Other,Chemical,17933.094096622408,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,7098,0,Other,Chemical,672.5435005198495,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,7115,0,Other,Chemical,27469.67551685361,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2015,7118,0,Physical,Thinning,80571.87367027965,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2015,7125,1,Physical,Biomass Removal,8045.834431228237,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2015,7127,0,Physical,Lop and Scatter,99621.65556754067,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,7143,0,Other,Chemical,4846.898075085419,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,7157,0,Other,Chemical,0.156178200098559,,,,,,,,,,,1,20,16,0,0,0,0,0,0,20,16
+2016,7162,0,Other,Chemical,90490.86747798548,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2016,7164,0,Other,Chemical,836134.6018955457,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2016,7170,0,Physical,Mowing,2329.083807134405,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,7189,0,Other,Chemical,33223.49282325295,0.4189858,0.5581511,252.6166026,239.9055471,0.6759489,0.7527327,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7192,0,Physical,Chipping,304068.21785793453,0.5333258,0.5333258,233.020201,233.020201,0.7528025,0.83099,,,,,1,16,16,0,0,0,0,0,0,16,16
+2017,7195,0,Physical,Thinning,128974.04174346603,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2017,7208,0,Other,Chemical,371202.36262519105,,,,,,,,,,,3,60,60,0,0,0,0,0,0,20,20
+2017,7219,0,Physical,Hand Pile,104852.8460979981,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2015,7221,0,Physical,Thinning,9379.801429578592,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2014,7222,0,Physical,Thinning,20716.14741324718,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2015,7233,1,Other,Chemical,81305.43341627909,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2016,7236,0,Physical,Biomass Removal,273082.6292510537,,,,,,,,,,,0,0,32,0,0,0,0,0,0,20,16
+2014,7238,0,Fire,Fire Use,815324.6622714109,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,7241,0,Physical,Thinning,58905.80293616292,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2017,7252,0,Physical,Hand Pile,0.176828719841237,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,7255,1,Physical,Hand Pile,129341.91425792972,,0.6585473,,231.1460419,,0.3806215,,,,,9,180,144,0,0,0,0,0,0,20,16
+2018,7258,0,Physical,Thinning,6.144986830802003,,0.6973331,,222.0473679,,0.8138327,,,,,1,20,0,0,0,0,0,0,0,20,16
+2018,7271,0,Physical,Thinning,68813.43895440994,,0.6448308,,218.6614838,,0.3977233,,,,,5,100,80,0,0,0,0,0,0,20,16
+2014,7281,0,Physical,Thinning,185505.95938662317,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2016,7291,0,Physical,Thinning,507707.61076908174,,,,,,,,,,,0,0,16,0,0,0,0,0,0,20,16
+2017,7294,0,Physical,Thinning,4039.9376428165856,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,7317,0,Other,Chemical,55525.47453635144,,0.7477487,,264.9356537,,0.4501085,,,,,8,160,121,0,0,0,0,0,0,20,16
+2018,7339,0,Physical,Chipping,6551.621924238333,,0.7187454,,279.0119782,,0.3100164,,,,,5,100,76,0,0,0,0,0,0,20,16
+2018,7349,0,Other,Chemical,0.243849239525745,,0.8149648,,271.6313477,,1.0715613,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,7350,0,Other,Chemical,88521.44910966861,,0.8309516,,266.2531636,,1.0594395,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7358,0,Other,Chemical,90490.86747798548,,0.8352773,,267.6746368,,1.0753725,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7360,0,Physical,Thinning,680.4292825926924,,0.8246809,,263.4603729,,1.0942783,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7362,0,Physical,Thinning,95739.27760415619,,0.8297148,,265.5827382,,1.1005934,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,7364,0,Physical,Thinning,49273.249864039375,,0.8291351,,264.7071991,,1.1133377,,,,,3,60,48,0,0,0,0,0,0,20,16
+2018,7365,0,Physical,Thinning,1764.1493797453254,,0.8510784,,251.2165452,,1.14388,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7368,0,Physical,Thinning,1565.1298254320584,,0.8225958,,273.0644455,,1.1176211,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,7378,0,Physical,Lop and Scatter,145848.4028250778,,0.8494519,,252.3534241,,1.1084972,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,7390,0,Fire,Machine Pile Burn,279.22046168390574,,0.837992,,268.3934835,,1.0564338,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7392,0,Fire,Machine Pile Burn,63.388435102042656,,0.8182184,,271.4001007,,1.1350409,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7394,0,Fire,Machine Pile Burn,483535.1070671724,,0.8418042,,270.0246786,,1.0590935,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7396,0,Fire,Machine Pile Burn,708112.6283255414,,0.84105,,269.5035807,,1.0555298,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7407,0,Physical,Thinning,116500.75911789443,,0.8201582,,273.405365,,1.1020513,,,,,2,40,32,0,0,0,0,0,0,20,16
+2018,7410,0,Fire,Broadcast Burn,25421.22325223554,,0.8150301,,269.3311463,,1.1687889,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7417,0,Physical,Mastication,126311.01657457362,,0.832788,,265.3866883,,1.1129157,,,,,5,100,80,0,0,0,0,0,0,20,16
+2018,7418,0,Physical,Mastication,32060.44097627945,,0.8179692,,272.5924988,,1.1007229,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,7423,0,Physical,Hand Pile,4488.163000354324,0.4057904,0.5767621,250.7499458,246.2642711,0.7893535,0.8419207,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,7425,0,Other,Chemical,2621137.678872342,0.4069687,0.5624531,254.26781,241.2861347,0.8124571,0.8657757,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7428,0,Other,Chemical,571310.2710390474,0.4105862,0.545906,277.4590271,236.4985733,0.8887866,0.9125378,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7434,0,Physical,Hand Pile,513.931184570969,0.4104552,0.5553034,274.9869583,240.3738079,0.4908486,0.5080546,,,,,3,60,48,0,0,0,0,0,0,20,16
+2019,7446,0,Physical,Hand Pile,126517.83509151883,0.3404249,0.4301191,87.3071175,111.0034272,0.500554,0.5216425,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,7453,0,Physical,Lop and Scatter,126517.83509151883,0.340145,0.4310522,86.2164585,110.3382405,0.4946541,0.5141232,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,7462,0,Physical,Thinning,6226.14140720881,0.3404523,0.4345577,86.9712917,112.1519544,0.5103293,0.5837908,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,7467,0,Physical,Mowing,89021.06543579507,0.4101285,0.4640026,115.3468231,246.3448111,0.414767,0.525869,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,7481,0,Other,Chemical,32060.44097627945,,0.8335153,,247.6254578,,1.1628695,,,,,5,100,80,0,0,0,0,0,0,20,16
+2018,7482,0,Physical,Mastication,30154.482724610643,,0.8529209,,253.4159393,,1.0695218,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7486,0,Physical,Thinning,197411.41290890984,0.4547187,0.5350261,155.4245529,163.4585171,0.4020508,0.5358903,,,,,1,20,16,0,0,0,0,0,0,20,16
+2019,7489,0,Physical,Mastication,197411.41290890984,0.4253522,0.4866146,112.5250855,135.4864499,0.4983455,0.7093109,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,7493,0,Other,Chemical,24437.775920515087,0.4098578,0.54044,342.2417507,282.852767,0.3584137,0.5297088,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,7498,0,Physical,Biomass Removal,62822.72127839978,0.3789232,0.4476792,272.1841526,230.8269645,0.3551333,0.5313432,,,,,0,0,16,0,0,0,0,0,0,20,16
+2019,7501,0,Physical,Biomass Removal,33775.77623355696,0.3784497,0.4425901,275.1977883,230.945949,0.3563231,0.5184951,,,,,0,0,64,0,0,0,0,0,0,20,16
+2019,7517,0,Physical,Biomass Removal,142240.64142774744,0.3769971,0.4458779,272.3413925,232.9336102,0.3503867,0.5109073,,,,,0,0,32,0,0,0,0,0,0,20,16
+2018,7518,0,Physical,Biomass Removal,792882.3437509582,,0.8498042,,272.4880574,,0.9508579,,,,,5,100,80,0,0,0,0,0,0,20,16
+2019,7526,0,Physical,Hand Pile,350968.6816860731,0.3827852,0.4605592,275.2560215,236.9424635,0.4841947,0.7308571,,,,,0,0,32,0,0,0,0,0,0,20,16
+2019,7536,0,Physical,Thinning,350968.6816860731,0.3926761,0.5006766,297.5043125,260.8113358,0.2538515,0.5088664,,,,,0,0,16,0,0,0,0,0,0,20,16
+2020,7544,1,Fire,Hand Pile Burn,426962.689966907,0.4605449,0.5246609,167.0573701,136.197348,1.0762146,1.2709365,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,7545,1,Physical,Thinning,16053.621523778853,0.4803109,0.5218681,172.2445068,138.4738791,0.6543867,0.9815039,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,7547,1,Physical,Thinning,82130.24146929022,0.4755614,0.4662385,184.4457084,118.8465304,0.6490592,1.1274104,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,7551,1,Physical,Thinning,211445.98647275925,0.4488182,0.4274788,177.1671922,105.8357908,0.5343191,1.0213758,,,,,4,80,64,0,0,0,0,0,0,20,16
+2020,7556,1,Fire,Hand Pile Burn,572012.4405920057,0.4584841,0.4663608,167.0562051,121.0548269,0.6421809,1.0779666,,,,,5,100,80,0,0,0,0,0,0,20,16
+2020,7570,1,Physical,Mastication,130187.98392617382,0.4448457,0.467279,167.6262779,116.6149894,0.703903,1.197746,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,7588,1,Physical,Lop and Scatter,45186.888680817356,110.833819,122.1389359,126.6206531,155.6076258,0.5728972,0.9177893,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,7595,1,Fire,Hand Pile Burn,482768.28102342715,123.5485466,129.3607328,128.5009421,153.0361516,0.560382,0.9610546,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,7596,1,Fire,Hand Pile Burn,1225179.238955204,126.8407035,132.8121007,142.5138182,165.5344853,0.7106639,1.1425789,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,7597,1,Fire,Hand Pile Burn,1541.1270827989042,139.0461344,122.4645836,112.0418487,113.3669891,0.6247514,0.6379551,,,,,6,189,0,0,0,0,0,0,0,20,16
+2021,7602,1,Other,Chemical,4332049.761693642,108.8053152,131.9672453,138.3207746,163.2673463,1.1880551,1.2641115,,,,,8,160,128,0,0,0,0,0,0,20,16
+2021,7604,1,Other,Chemical,127211.60967783415,124.5452425,128.4934244,116.3253724,138.4890474,0.7989474,0.9303588,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,7609,1,Physical,Chipping,9112.08845729476,122.9613412,128.5013493,112.1508125,136.1655911,0.7278266,0.8515629,,,,,6,120,96,0,0,0,0,0,0,20,16
+2021,7613,1,Physical,Hand Pile,166733.09550642592,134.1778754,122.8062514,105.3258654,112.6791009,0.5941878,0.6098566,,,,,8,207,167,0,0,0,0,0,0,20,16
+2021,7620,1,Fire,Hand Pile Burn,21641.134010004647,106.9607695,105.8752976,126.3332767,115.1054208,0.5331073,0.8203274,,,,,18,355,279,0,0,0,0,0,0,20,16
+2016,7624,0,Physical,Thinning,8125.175748310301,,,,,,,,,,,2,39,32,0,0,0,0,0,0,20,16
+2017,7627,0,Fire,Broadcast Burn,174969.2173591487,,,,,,,,,,,43,860,688,0,0,0,0,0,0,20,16
+2017,7639,0,Physical,Thinning,22834.568469373746,,,,,,,,,,,2,40,32,0,0,0,0,0,0,20,16
+2017,7641,0,Physical,Hand Pile,10011.517833664799,,,,,,,,,,,14,280,224,0,0,0,0,0,0,20,16
+2018,7649,0,Physical,Thinning,29728.964949523084,,0.8567422,,253.6661454,,0.9574841,,,,,1,20,16,0,0,0,0,0,0,20,16
+2018,7650,0,Physical,Hand Pile,38382.48031957693,,0.7276814,,250.9287186,,0.3459395,,,,,2,40,32,0,0,0,0,0,0,20,16
+2019,7651,0,Physical,Hand Pile,85100.30039243256,0.4577183,0.4480728,323.1539326,199.8079469,0.2572899,0.5539827,,,,,0,0,16,0,0,0,0,0,0,20,16
+2021,7658,1,Physical,Thinning,41431.84441586412,139.0312762,120.0143717,121.8436723,196.8935139,1.108143,1.1866283,,,,,39,780,624,0,0,0,0,0,0,20,16
+2021,7668,1,Physical,Chipping,41431.84441586412,131.0550757,111.2346768,179.7496076,125.3174727,0.8759925,1.1844623,,,,,14,280,223,0,0,0,0,0,0,20,16
+2021,7671,1,Physical,Chipping,18776.855837609015,117.6256864,111.0146876,147.1570369,126.989676,0.6725293,1.104391,,,,,28,557,440,0,0,0,0,0,0,20,16
+2021,7675,1,Fire,Jackpot Burn,89573.44715280454,118.0430524,101.3659904,61.9693639,101.3300263,2.1756907,0.5248128,,,,,37,740,592,0,0,0,0,0,0,20,16
+2021,7678,1,Physical,Mastication,947607.2563188246,116.4319147,128.2289764,109.766055,153.9527178,1.1872414,1.3970418,,,,,10,194,160,0,0,0,0,0,0,20,16
+2020,7681,1,Physical,Mastication,1500588.346386419,0.4587529,0.5193362,166.7331528,134.3211911,0.9938544,1.2097497,,,,,7,140,112,0,0,0,0,0,0,20,16
+2020,7683,1,Physical,Machine Pile,28517.737810521423,0.4695025,0.494175,180.8412792,128.7113018,0.8359751,1.312851,,,,,4,80,64,0,0,0,0,0,0,20,16
+2022,7692,1,Physical,DR311_HL Thinning 22,155825.6495025156,143.7278738,83.8009213,92.0650657,144.4959407,0.6541919,0.4086573,,,,,10,200,150,0,0,0,0,0,0,20,15
+2022,7697,1,Physical,1_Bosquecito Fuels Reduction Phase 2,350260.06574317435,142.6163348,95.1462339,104.9487022,196.9232114,0.6028382,0.3704228,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7710,1,Physical,"Piling of Fuels, Hand or Machine",304751.4118241545,146.0466325,96.8340819,113.9405201,200.7820701,0.5765374,0.3645394,,,,,7,140,105,0,0,0,0,0,0,20,15
+2022,7712,1,Physical,Range Cover Manipulation,304751.4118241545,144.2005159,96.2690348,109.2116054,199.0599721,0.5891278,0.379511,,,,,9,180,135,0,0,0,0,0,0,20,15
+2022,7714,1,Physical,Range Cover Manipulation,116074.46767827036,165.4152564,106.6038449,157.1920418,162.7907177,1.0142133,0.6489731,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7724,1,Physical,Yarding - Removal of Fuels by Carrying or Dragging,52032.849369494485,164.5546107,105.4803255,154.2274265,162.3079884,0.9832257,0.6383698,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7726,1,Physical,"Piling of Fuels, Hand or Machine",268253.3013150357,181.2101159,118.4144747,187.5313016,183.2440502,0.9959752,0.6485123,,,,,10,200,150,0,0,0,0,0,0,20,15
+2022,7727,1,Physical,Yarding - Removal of Fuels by Carrying or Dragging,511647.3626017342,170.6685751,113.7795222,177.2746769,174.4738625,1.0304144,0.6697527,,,,,9,180,135,0,0,0,0,0,0,20,15
+2022,7746,1,Physical,Commercial Thin,294131.32983752404,167.7826519,106.9731218,188.0629413,157.012476,1.0781189,0.7787038,,,,,7,140,105,0,0,0,0,0,0,20,15
+2022,7757,1,Physical,Range Cover Manipulation,497153.6791134848,166.6136782,104.9769844,183.05317,153.6943154,1.0305496,0.7511354,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7758,1,Physical,Precommercial Thin,33980.7105062515,167.8707491,107.1283948,183.5148146,157.4353852,1.0041167,0.6692788,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7761,1,Physical,Improvement Cut,499805.0336721416,145.0674601,120.6132512,107.4435372,150.9310467,0.7571093,0.5325843,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7762,1,Physical,Sanitation Cut,579068.6009410464,146.8590502,119.244238,111.0582994,146.8123886,0.7796052,0.5617171,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7768,1,Physical,Precommercial Thin,369843.3567818485,146.7104429,119.2060911,109.3174098,147.3079853,0.783422,0.5670375,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7770,1,Physical,Commercial Thin,212945.26962257977,145.8572397,121.3143453,110.9013596,152.2692776,0.7570941,0.5351359,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7782,1,Physical,"Fuel Break, Hazardous Fuel Reduction Around Community at Risk, Mastication, Stump and Spray",3539.81918181175,149.4100568,132.4137264,139.7230795,165.3078718,0.9084769,0.6486325,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7786,1,Physical,"Fuel Break, Hazardous Fuel Reduction Around Community at Risk, Mastication, Stump and Spray",20337.120680052365,147.4421793,131.4509489,132.0136623,163.101079,0.903094,0.6364744,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7805,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",9713.04765726819,160.9079175,95.3523788,134.6772763,171.5053158,0.6674359,0.4852902,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7813,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",8001.11621478309,148.5332869,92.2935468,103.6773174,136.9090867,0.6177576,0.4945233,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7817,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",21936.930942008057,147.55889,91.6779049,102.1630908,134.3574724,0.6019309,0.4796908,,,,,10,200,150,0,0,0,0,0,0,20,15
+2022,7822,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",50817.762889616366,161.6047776,100.7949218,125.0756428,169.0349964,0.7521714,0.5028822,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7823,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",79481.8244470354,161.9275388,102.0276287,125.3560963,169.3408085,0.7779685,0.5050082,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7833,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",18302.753711940906,151.2569851,133.5837212,146.0181572,167.8931872,0.9114442,0.6504548,,,,,7,140,105,0,0,0,0,0,0,20,15
+2022,7849,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Maintenance",75231.8106200271,143.1678726,106.6500966,146.9278326,139.9627089,0.9912403,1.4061827,,,,,8,160,120,0,0,0,0,0,0,20,15
+2022,7854,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",227146.41887627475,144.2349116,112.7854007,160.4863714,147.9909019,0.8659194,1.3643315,,,,,8,160,120,0,0,0,0,0,0,20,15
+2022,7869,1,Physical,Mastication,9123.748363805842,152.1251443,110.5267053,128.1731274,206.8605852,0.9808752,0.8809343,,,,,8,160,113,0,0,0,0,0,0,20,15
+2022,7871,1,Physical,"Forest Health Thinning, Tree Felling and Removal",181556.71124366656,162.2554995,110.7425186,153.6364648,167.9645147,1.1356438,1.317299,,,,,23,460,345,0,0,0,0,0,0,20,15
+2022,7879,1,Physical,"Forest Stand Improvement, Lop and Scatter",115907.1825734254,158.9417065,112.2790241,141.838457,180.0115013,1.0165717,0.8385782,,,,,6,120,88,0,0,0,0,0,0,20,15
+2022,7883,1,Physical,"Forest Stand Improvement, Lop and Scatter, Mastication",48837.50715812137,144.2744404,95.8621046,110.3242311,199.51032,0.5984121,0.3546491,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7893,1,Physical,Mastication,487845.6831853238,143.023029,95.4265508,109.832882,197.1819445,0.586263,0.3728703,,,,,8,160,120,0,0,0,0,0,0,20,15
+2022,7894,1,Chemical,Chemical,15536811.788442029,166.51934,166.51934,192.6301839,192.6301839,0.9052548,0.9052548,,,,,6,120,120,0,0,0,0,0,0,20,20
+2022,7897,1,Fire,Machine Pile Burn,18883.332646207084,162.5782385,104.2547975,152.3710725,168.4342888,0.7270555,0.5686643,,,,,5,99,75,0,0,0,0,0,0,20,15
+2022,7900,1,Fire,Broadcast Burn,4496430.654646945,163.2297223,104.7088701,155.3299136,168.8231865,0.7369173,0.5808967,,,,,5,99,75,0,0,0,0,0,0,20,15
+2022,7901,1,Fire,Broadcast Burn,2294684.1258280114,155.6586264,105.7841482,132.4133177,163.5177696,0.8508698,0.5569757,,,,,5,100,75,0,0,0,0,0,0,20,15
+2022,7905,1,Physical,Invasives - Mechanical /Physical,32.95003190436676,152.4516264,108.4349575,113.080816,171.9329113,0.6929104,0.4736408,,,,,5,100,75,0,0,0,0,0,0,20,15
+2021,7923,1,Physical,Invasives - Mechanical /Physical,551.3615028887828,139.6572594,116.3664803,131.3384908,138.7102934,0.9627982,1.1237703,,,,,11,215,176,0,0,0,0,0,0,20,16
+2021,7924,1,Physical,Invasives - Mechanical /Physical,3149.888969898122,146.7780958,127.2702446,127.9206625,149.4249503,1.0845938,1.2384299,,,,,20,428,352,0,0,0,0,0,0,20,16
+2021,7927,1,Physical,Invasives - Mechanical /Physical,32.68190594834983,135.694476,135.0383716,116.448679,147.465655,0.9975682,1.0511442,,,,,27,539,432,0,0,0,0,0,0,20,16
+2021,7932,1,Physical,Invasives - Mechanical /Physical,59.73672874501332,121.8924752,130.1009685,127.2541605,152.6026074,0.9831759,1.3305089,,,,,10,200,159,0,0,0,0,0,0,20,16
+2022,7933,1,Physical,Invasives - Mechanical /Physical,818.3297306233999,150.8158849,109.9805981,108.9057881,173.5545299,0.732022,0.468743,,,,,6,120,90,0,0,0,0,0,0,20,15
+2022,7941,1,Physical,Yarding - Removal of Fuels by Carrying or Dragging,9126.157893793727,173.4445486,120.6935355,192.885956,177.6162389,0.8659108,0.7394969,,,,,5,100,75,0,0,0,0,0,0,20,15
+2023,7950,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",101764.37985562507,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,7952,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",35800.93013155682,,,,,,,,,,,12,240,192,0,0,0,0,0,0,20,16
+2023,7955,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",19469.43462833607,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2023,7958,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",166449.2452238066,,,,,,,,,,,10,200,156,0,0,0,0,0,0,20,16
+2023,7962,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",43946.453233012326,,,,,,,,,,,13,260,208,0,0,0,0,0,0,20,16
+2023,7965,1,Physical,"Hazardous Fuel Reduction Around Community at Risk, Mastication",76444.81523120806,,,,,,,,,,,13,260,208,0,0,0,0,0,0,20,16
+2023,7972,1,Physical,"Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",4054.576557029941,,,,,,,,,,,39,779,624,0,0,0,0,0,0,20,16
+2023,7974,1,Physical,"Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",2088.1205895667404,,,,,,,,,,,15,300,240,0,0,0,0,0,0,20,16
+2023,7981,1,Physical,"Forest Health Thinning, Tree Felling and Removal",139962.29311802768,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,7990,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",70882.33821552139,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,7991,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",32314.26084288897,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,7999,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",260.390274826234,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2022,8014,1,Physical,Thinning/Fuelwood,451049.1185838553,143.6367179,99.9888939,116.2335394,162.2200455,0.7145543,0.4774163,,,,,5,100,75,0,0,0,0,0,0,20,15
+2023,8258,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",169978.79040988936,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,8261,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",3374.9920673182564,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,8264,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",4429.594178788921,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,8271,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk",174672.2776553774,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2022,8278,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Hazardous Fuel Reduction Around Community at Risk, Mastication",15647.317502533071,158.5059189,92.5761648,126.6942555,174.0449486,0.6260869,0.4628298,,,,,7,140,105,0,0,0,0,0,0,20,15
+2023,8285,1,Physical,"Forest Health Thinning, Forest Stand Improvement, Fuel Break, Hazardous Fuel Reduction Around Community at Risk, Mastication",9437.354279816049,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,8293,1,Physical,"Cut, Skid and Deck",136286.75834372183,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,8294,1,Physical,Mastication,20131.520346132827,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,8301,1,Chemical,PFB,177480.42291844037,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2022,8318,1,Fire,Burning of Piled Material,68389.34545128931,167.9306315,138.9875738,176.1689038,180.1989915,0.9402043,0.7173179,,,,,8,160,120,0,0,0,0,0,0,20,15
+2021,8325,1,Fire,Burning of Piled Material,808296.2396290578,154.6606265,136.6347147,133.991145,154.9589702,0.9749105,1.2052099,,,,,32,663,544,0,0,0,0,0,0,20,16
+2023,8328,1,Physical,Thinning for Hazardous Fuels Reduction,273794.8133937025,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2022,9495,1,needs input,nan,11999321.506026486,165.6919179,149.4875493,93.0201438,182.9648252,0.6726978,0.6420762,,,,,6,120,90,0,0,0,0,0,0,20,15
+2023,9512,1,Physical,Thinning,395080.69446764124,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9517,1,Physical,Thinning,414975.78556533006,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2023,9545,1,Physical,Invasives - Mechanical /Physical,3.473469302261199,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2023,9549,1,Physical,Invasives - Mechanical /Physical,199.18739726367673,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9564,1,Fire,Planned Treatment Burned in Wildfire,6267875.822350852,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2023,9565,1,Fire,Wildfire - Natural Ignition,101207148.23553468,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9567,1,Fire,Planned Treatment Burned in Wildfire,67684.25565585907,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9579,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",8097.168127548041,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2023,9580,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",24469.398112730247,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9582,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",10104.947772117366,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9585,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",14581.678089030864,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9592,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",4194.032954032409,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9595,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",7667.189457393854,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9596,1,Physical,"Chipping, Forest Health Thinning, Forest Stand Improvement, Lop and Scatter, Hazardous Fuel Reduction Around Community at Risk",11511.63907041884,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9608,1,Physical,West Navajo Mastication,861360.5131595961,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9609,1,Physical,West Navajo Pile,32749.05368283312,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2023,9619,1,Physical,Joint project with BIL312 funds and 1160 (Salinity objectives),1263466.3891325456,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2023,9623,1,Physical,Fuelwood Thinning Area,1599667.489297772,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9639,1,Physical, ,91874.42707599569,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2021,9654,1,Physical,Range Cover Manipulation,77839.86743395704,110.4340642,121.6795624,97.9584015,116.5307161,0.5918436,0.7713797,,,,,19,375,299,0,0,0,0,0,0,20,16
+2023,9658,1,Physical,Commercial Thin,77839.86743395704,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9672,1,Physical,Range Cover Manipulation,4867905.256379129,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2018,9679,0,Physical,Invasives - Mechanical /Physical,64.87076324243684,,0.8766965,,394.0773887,,0.6403737,,,,,1,20,16,0,0,0,0,0,0,20,16
+2022,9699,1,Physical,Group Selection Cut (UA/RH/FH),169100.68803581348,166.6909207,127.8549927,180.9146772,152.6355255,0.8050521,0.7619526,,,,,0,0,105,0,0,0,0,0,0,20,15
+2022,9703,1,Physical,Disease Control,2371275.905762816,179.3371224,157.4489967,118.6565961,213.017066,0.8700378,0.7895665,,,,,7,140,105,0,0,0,0,0,0,20,15
+2020,9704,1,Physical,Fuel Break,152815.69337403955,0.398929,0.3543279,209.878628,86.4659908,0.4994137,1.110152,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,9709,1,Physical,Fuel Break,115499.00393246212,135.3786228,121.433438,123.3264275,146.3497736,0.9104211,1.2603978,,,,,20,395,318,0,0,0,0,0,0,20,16
+2022,9715,1,Physical,Precommercial Thin,632357.4523933268,181.1041062,178.6289719,124.6582737,221.6342896,0.9256979,0.8576666,,,,,5,100,75,0,0,0,0,0,0,20,15
+2023,9721,1,Physical,Group Selection Cut (UA/RH/FH),2371275.905762816,,,,,,,,,,,14,280,224,0,0,0,0,0,0,20,16
+2020,9722,1,Physical,Thinning for Hazardous Fuels Reduction,199556.28244426893,0.2970433,0.3715615,74.7356891,84.2631059,0.4994085,1.0867714,,,,,7,140,112,0,0,0,0,0,0,20,16
+2021,9724,1,Fire,Broadcast Burning - Covers a majority of the unit,3882215.6774817137,126.6479181,107.9919697,118.3175368,123.7242758,1.7288083,0.8704223,,,,,18,376,304,0,0,0,0,0,0,20,16
+2017,9741,0,Fire,Broadcast Burning - Covers a majority of the unit,2739749.185016064,,,,,,,,,,,8,160,128,0,0,0,0,0,0,20,16
+2018,9745,0,Fire,Burning of Piled Material,113265.11625282418,,0.7405803,,270.4236857,,0.5188239,,,,,1,20,0,0,0,0,0,0,0,20,16
+2017,9748,0,Physical,Invasives - Mechanical /Physical,1017.9495370111484,,,,,,,,,,,3,60,48,0,0,0,0,0,0,20,16
+2023,9760,1,Physical,"Salvage Cut (intermediate treatment, not regeneration)",390696.74260252167,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9766,1,Physical,Rearrangement of Fuels,390696.74260252167,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9767,1,Physical,"Salvage Cut (intermediate treatment, not regeneration)",636652.2069845508,,,,,,,,,,,7,140,112,0,0,0,0,0,0,20,16
+2023,9769,1,Physical,Yarding - Removal of Fuels by Carrying or Dragging,521080.2064877615,,,,,,,,,,,0,0,112,0,0,0,0,0,0,20,16
+2023,9786,1,Fire,Burning of Piled Material,213451.92912543274,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9790,1,Physical,Rearrangement of Fuels,235767.22760115552,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9804,1,Physical,Rearrangement of Fuels,372454.866856491,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2023,9814,1,Physical,"Salvage Cut (intermediate treatment, not regeneration)",235767.22760115552,,,,,,,,,,,5,100,80,0,0,0,0,0,0,20,16
+2023,9815,1,Fire,Broadcast Burning - Covers a majority of the unit,3134174.9540125043,,,,,,,,,,,4,80,64,0,0,0,0,0,0,20,16
+2023,9821,1,Physical,Rearrangement of Fuels,437974.66741046176,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9866,1,Physical,"Cut, Skid and Deck",718940.9119498973,,,,,,,,,,,4,64,64,0,0,0,0,0,0,16,16
+2023,9869,1,Physical,"Cut, Skid and Deck",390718.50513111625,,,,,,,,,,,9,180,144,0,0,0,0,0,0,20,16
+2023,9875,1,Physical,Fuel Break,57913.48797048993,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
+2023,9883,1,Physical,Mastication,37917.889079082845,,,,,,,,,,,6,120,96,0,0,0,0,0,0,20,16
